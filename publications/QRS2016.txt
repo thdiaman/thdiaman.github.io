@@ -1,0 +1,12 @@
+The popularity of open source software repositories and the highly adopted paradigm of
+software reuse have led to the development of several tools that aspire to assess the
+quality of source code. However, most software quality estimation tools, even the ones
+using adaptable models, depend on fixed metric thresholds for defining the ground truth.
+In this work we argue that the popularity of software components, as perceived by
+developers, can be considered as an indicator of software quality. We present a generic
+methodology that relates quality with source code metrics and estimates the quality of
+software components residing in popular GitHub repositories. Our methodology employs two
+models: a one-class classifier, used to rule out low quality code, and a neural network,
+that computes a quality score for each software component. Preliminary evaluation
+indicates that our approach can be effective for identifying high quality software
+components in the context of reuse.

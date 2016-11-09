@@ -1,0 +1,21 @@
+During the last few years, the REST architectural style has drastically changed
+the way web services are developed. Due to its transparent resource-oriented model,
+the RESTful paradigm has been incorporated into several development frameworks that
+allow rapid development and aspire to automate parts of the development process.
+However, most of the frameworks lack automation of essential web service functionality,
+such as authentication or database searching, while the end product is usually not
+fully compliant to REST. Furthermore, most frameworks rely heavily on domain specific
+modeling and require developers to be familiar with the employed modeling technologies.
+In this paper, we present a Model-Driven Engineering (MDE) engine that supports fast
+design and implementation of web services with advanced functionality. Our engine provides
+a front-end interface that allows developers to design their envisioned system through
+software requirements in multimodal formats. Input in the form of textual requirements
+and graphical storyboards is analyzed using natural language processing techniques and
+semantics, to semi-automatically construct the input model for the MDE engine. The engine
+subsequently applies model-to-model transformations to produce a RESTful, ready-to-deploy
+web service. The procedure is traceable, ensuring that changes in software requirements
+propagate to the underlying software artefacts and models. Upon assessing our methodology
+through a case study and measuring the effort reduction of using our tools, we conclude
+that our system can be effective for the fast design and implementation of web services,
+while it allows easy wrapping of services that have been engineered with traditional
+methods to the MDE realm.

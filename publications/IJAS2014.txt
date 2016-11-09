@@ -1,0 +1,13 @@
+Automating the localization of software bugs that do not lead to crashes is a difficult
+task that has drawn the attention of several researchers. Several popular methods
+follow the same approach; function call traces are collected and represented as graphs,
+which are subsequently mined using subgraph mining algorithms in order to provide a
+ranking of potentially buggy functions-nodes. Recent work has indicated that the
+scalability of state-of-the-art methods can be improved by reducing the graph dataset
+using tree edit distance algorithms. The call traces that are closer to each other, but
+belong to different sets, are the ones that are most significant in localizing bugs.
+In this work, we further explore the task of selecting the most significant traces, by
+proposing different call trace selection techniques, based on the Stable Marriage
+problem, and testing their effectiveness against current solutions. Upon evaluating our
+methods on a real-world dataset, we prove that our methodology is scalable and
+effective enough to be applied on dynamic bug detection scenarios.
