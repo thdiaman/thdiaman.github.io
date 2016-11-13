@@ -1,0 +1,24 @@
+<p>
+  {{ pub.text }}<br/>
+  {% if pub.abstract %}
+    <style> input#cb{{ pub.name }}:checked ~ span#abs{{ pub.name }} { display:block; } </style>
+    <label class="labellink" for="cb{{ pub.name }}">Abstract</label><input class="pubinput" type="checkbox" id="cb{{ pub.name }}">
+  {% endif %}
+  {% if pub.bibtex %}
+    {% if pub.abstract %} | {% endif %}
+    <a target="_blank" href="{{ pub.bibtex }}">Bibtex</a>
+  {% endif %}
+  {% if pub.preprint %}
+    {% if pub.abstract or pub.bibtex %} | {% endif %}
+    <a target="_blank" href="{{ pub.preprint }}">Preprint</a>
+  {% endif %}
+  {% if pub.presentation %}
+    {% if pub.abstract or pub.bibtex or pub.preprint %} | {% endif %}
+    <a target="_blank" href="{{ pub.presentation }}">Presentation</a>
+  {% endif %}
+  {% if pub.dataset %}
+    {% if pub.abstract or pub.bibtex or pub.preprint or pub.presentation %} | {% endif %}
+    <a target="_blank" href="{{ pub.dataset }}">Dataset</a>
+  {% endif %}
+  {% if pub.abstract %} <span class="pubspan" id="abs{{ pub.name }}">{{ pub.abstract }}</span> {% endif %}
+</p>

@@ -104,6 +104,21 @@ a {
     }
 }
 
+/**
+ * Publications css
+ */
+.pubinput { display:none; }
+.pubspan { display:none; }
+.labellink {
+    color: $brand-color;
+    text-decoration: none;
+    cursor: pointer;
+    &:hover {
+        color: $text-color;
+        text-decoration: underline;
+    }
+}
+
 /* .post-content a, .home a {
 	font-weight: 500;
 } */
