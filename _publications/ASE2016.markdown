@@ -2,10 +2,13 @@
 name: ASE2016
 date: 2016-09-01
 type: journal
-text: "Christoforos Zolotas, Themistoklis Diamantopoulos, Kyriakos Chatzidimitriou and Andreas Symeonidis,
-\"From requirements to source code: a Model-Driven Engineering approach for RESTful web services\",
-Automated Software Engineering, pp. 1-48, September 2016."
-abstract: "During the last few years, the REST architectural style has drastically changed
+abstract: ""
+preprint: http://issel.ee.auth.gr/wp-content/uploads/2016/09/ReqsToCodeMDE.pdf
+bibtex: ASE2016.bib
+text: "Christoforos Zolotas, Themistoklis Diamantopoulos, Kyriakos Chatzidimitriou and Andreas Symeonidis, \"From requirements to source code: a Model-Driven Engineering approach for RESTful web services\", Automated Software Engineering, pp. 1-48, September 2016."
+---
+
+During the last few years, the REST architectural style has drastically changed
 the way web services are developed. Due to its transparent resource-oriented model,
 the RESTful paradigm has been incorporated into several development frameworks that
 allow rapid development and aspire to automate parts of the development process.
@@ -25,7 +28,4 @@ propagate to the underlying software artefacts and models. Upon assessing our me
 through a case study and measuring the effort reduction of using our tools, we conclude
 that our system can be effective for the fast design and implementation of web services,
 while it allows easy wrapping of services that have been engineered with traditional
-methods to the MDE realm."
-preprint: http://issel.ee.auth.gr/wp-content/uploads/2016/09/ReqsToCodeMDE.pdf
-bibtex: ASE2016.bib
----
+methods to the MDE realm.

@@ -3,7 +3,21 @@ name: MSR2016
 date: 2016-05-14
 type: conference
 text: "Themistoklis Diamantopoulos, Klearchos Thomopoulos, and Andreas Symeonidis, \"QualBoa: reusability-aware recommendations of source code components\", IEEE/ACM 13th Working Conference on Mining Software Repositories (MSR), Austin, Texas, USA, May 2016."
-abstract: "Contemporary software development processes involve finding reusable software components from online repositories and integrating them to the source code, both to reduce development time and to ensure that the final software project is of high quality. Although several systems have been designed to automate this procedure by recommending components that cover the desired functionality, the reusability of these components is usually not assessed by these systems. In this work, we present QualBoa, a recommendation system for source code components that covers both the functional and the quality aspects of software component reuse. Upon retrieving components, QualBoa provides a ranking that involves not only functional matching to the query, but also a reusability score based on configurable thresholds of source code metrics. The evaluation of QualBoa indicates that it can be effective for recommending reusable source code."
 bibtex: MSR2016.bib
 preprint: http://issel.ee.auth.gr/wp-content/uploads/2016/06/QualBoa-Reusability-aware-Recommendations-of-Source-Code-Components.pdf
+code: https://github.com/AuthEceSoftEng/QualBoa
+dataset: http://issel.ee.auth.gr/wp-content/uploads/2016/02/datasetMSR.zip
 ---
+
+Contemporary software development processes involve finding reusable software 
+components from online repositories and integrating them to the source code, both to 
+reduce development time and to ensure that the final software project is of high 
+quality. Although several systems have been designed to automate this procedure by 
+recommending components that cover the desired functionality, the reusability of these 
+components is usually not assessed by these systems. In this work, we present QualBoa, 
+a recommendation system for source code components that covers both the functional and 
+the quality aspects of software component reuse. Upon retrieving components, QualBoa 
+provides a ranking that involves not only functional matching to the query, but also a 
+reusability score based on configurable thresholds of source code metrics. The 
+evaluation of QualBoa indicates that it can be effective for recommending reusable 
+source code.
