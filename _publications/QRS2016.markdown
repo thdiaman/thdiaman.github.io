@@ -1,4 +1,9 @@
-The popularity of open source software repositories and the highly adopted paradigm of
+---
+name: QRS2016
+date: 2016-08-01
+type: conference
+text: "Michail Papamichail, Themistoklis Diamantopoulos and Andreas L. Symeonidis, \"User-Perceived Source Code Quality Estimation based on Static Analysis Metrics\", 2016 IEEE International Conference on Software Quality, Reliability and Security (QRS), Vienna, Austria, August 2016."
+abstract: "The popularity of open source software repositories and the highly adopted paradigm of
 software reuse have led to the development of several tools that aspire to assess the
 quality of source code. However, most software quality estimation tools, even the ones
 using adaptable models, depend on fixed metric thresholds for defining the ground truth.
@@ -9,4 +14,6 @@ software components residing in popular GitHub repositories. Our methodology emp
 models: a one-class classifier, used to rule out low quality code, and a neural network,
 that computes a quality score for each software component. Preliminary evaluation
 indicates that our approach can be effective for identifying high quality software
-components in the context of reuse.
+components in the context of reuse."
+bibtex: QRS2016.bib
+---

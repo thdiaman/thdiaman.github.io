@@ -1,4 +1,11 @@
-Automating the localization of software bugs that do not lead to crashes is a difficult
+---
+name: IJAS2014
+date: 2014-10-01
+type: journal
+text: "Themistoklis Diamantopoulos and Andreas Symeonidis,
+\"Localizing Software Bugs using the Edit Distance of Call Traces\",
+International Journal On Advances in Software, 7, (1), pp. 277-288, October 2014."
+abstract: "Automating the localization of software bugs that do not lead to crashes is a difficult
 task that has drawn the attention of several researchers. Several popular methods
 follow the same approach; function call traces are collected and represented as graphs,
 which are subsequently mined using subgraph mining algorithms in order to provide a
@@ -10,4 +17,7 @@ In this work, we further explore the task of selecting the most significant trac
 proposing different call trace selection techniques, based on the Stable Marriage
 problem, and testing their effectiveness against current solutions. Upon evaluating our
 methods on a real-world dataset, we prove that our methodology is scalable and
-effective enough to be applied on dynamic bug detection scenarios.
+effective enough to be applied on dynamic bug detection scenarios."
+preprint: http://www.thinkmind.org/download.php?articleid=soft_v7_n12_2014_22
+bibtex: IJAS2014.bib
+---
