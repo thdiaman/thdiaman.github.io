@@ -4,8 +4,8 @@ title: Blog
 permalink: /blog/
 ---
 
-Hello and welcome to the blog section my website!<br/>
-This is my blog, where I will try to post any interesting stuff that I find or make.<br/>
+Hello and welcome to the blog section of my website!<br/>
+This is where I will try to post any interesting stuff that I find or make.<br/>
 You can see my posts below.
 
 <ul class="listing">
