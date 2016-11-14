@@ -51,6 +51,7 @@ $on-laptop:        950px;
 
 // Import partials from `sass_dir` (defaults to `_sass`)
 @import
+    "bootstrap",
         "header",
 	"mobile-header",
         "base",
