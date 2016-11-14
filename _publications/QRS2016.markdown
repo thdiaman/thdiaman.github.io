@@ -2,7 +2,11 @@
 name: QRS2016
 date: 2016-08-01
 type: conference
-text: "Michail Papamichail, Themistoklis Diamantopoulos and Andreas L. Symeonidis, \"User-Perceived Source Code Quality Estimation based on Static Analysis Metrics\", 2016 IEEE International Conference on Software Quality, Reliability and Security (QRS), Vienna, Austria, August 2016."
+authors: Michail Papamichail, Themistoklis Diamantopoulos and Andreas L. Symeonidis
+title: 'User-Perceived Source Code Quality Estimation based on Static Analysis Metrics'
+conference: 2016 IEEE International Conference on Software Quality, Reliability and Security (QRS)
+pages: 100-107
+location: Vienna, Austria
 bibtex: QRS2016.bib
 ---
 

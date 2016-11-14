@@ -2,7 +2,11 @@
 name: MSR2016
 date: 2016-05-14
 type: conference
-text: "Themistoklis Diamantopoulos, Klearchos Thomopoulos, and Andreas Symeonidis, \"QualBoa: reusability-aware recommendations of source code components\", IEEE/ACM 13th Working Conference on Mining Software Repositories (MSR), Austin, Texas, USA, May 2016."
+authors: Themistoklis Diamantopoulos, Klearchos Thomopoulos, and Andreas Symeonidis
+title: 'QualBoa: reusability-aware recommendations of source code components'
+conference: IEEE/ACM 13th Working Conference on Mining Software Repositories (MSR)
+pages: 488-491
+location: Austin, Texas, USA
 bibtex: MSR2016.bib
 preprint: http://issel.ee.auth.gr/wp-content/uploads/2016/06/QualBoa-Reusability-aware-Recommendations-of-Source-Code-Components.pdf
 code: https://github.com/AuthEceSoftEng/QualBoa

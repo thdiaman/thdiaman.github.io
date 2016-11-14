@@ -2,7 +2,12 @@
 name: IJAS2014
 date: 2014-10-01
 type: journal
-text: "Themistoklis Diamantopoulos and Andreas Symeonidis, \"Localizing Software Bugs using the Edit Distance of Call Traces\", International Journal On Advances in Software, 7, (1), pp. 277-288, October 2014."
+authors: Themistoklis Diamantopoulos and Andreas Symeonidis
+title: Localizing Software Bugs using the Edit Distance of Call Traces
+journal: International Journal On Advances in Software
+volume: 7
+number: 1
+pages: 277-288
 preprint: http://www.thinkmind.org/download.php?articleid=soft_v7_n12_2014_22
 bibtex: IJAS2014.bib
 ---
