@@ -1,0 +1,24 @@
+---
+name: ITSC2013
+date: 2013-10-08
+type: conference
+authors: Themistoklis Diamantopoulos, Dionysios Kehagias, Felix G. K&#246;nig and Dimitrios Tzovaras
+title: Investigating the effect of global metrics in travel time forecasting
+conference: 16th International IEEE Conference on Intelligent Transportation Systems (ITSC)
+location: Hague, Netherlands
+pages: 412-417
+bibtex: ITSC2013.bib
+---
+
+The effect of traffic in routing, either for individuals or fleets, becomes more and 
+more noticeable as the social, economical, and the ecological effects that it has, seem 
+to be crucial. Forecasting travel times is an interesting, yet challenging problem, 
+which if taken into careful consideration, could have a positive impact on the 
+effectiveness of Intelligent Transportation Systems. Upon analyzing the problem and 
+describing its variances, this paper compares different methodologies on traffic 
+prediction, along with analyzing the effect of metrics, such as Principal Component 
+Analysis and Cross Correlation, when interpreting traffic data. We evaluate known 
+literature methods along with a new prototype algorithmic variation of STARIMA, based on 
+the use of global Coefficient of Determination, against two diverse datasets. The 
+benchmarking results, which are promising, are discussed with respect to the distinct 
+characteristics of the two datasets.

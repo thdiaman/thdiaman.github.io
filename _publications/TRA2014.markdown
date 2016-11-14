@@ -1,0 +1,24 @@
+---
+name: TRA2014
+date: 2014-04-14
+type: conference
+authors: Themistoklis Diamantopoulos, Dionysios Kehagias, Felix G. K&#246;nig and Dimitrios Tzovaras
+title: Use of density-based cluster analysis and classification techniques for traffic congestion prediction and visualisation
+conference: 'Transport Research Arena (TRA) 5th Conference: Transport Solutions from Research to Deployment'
+location: Paris, France
+pages: 68-77
+preprint: http://www.ecompass-project.eu/sites/default/files/ECOMPASS-TR-043.pdf
+bibtex: TRA2014.bib
+---
+
+The field of Intelligent Transportation Systems has lately raised increasing interest 
+due to its high socio-economic impact. This work aims on developing efficient techniques 
+for traffic congestion prediction and visualisation. We have designed a simple, yet 
+effective and scalable model to handle sparse data from GPS observations and reduce the 
+problem of congestion prediction to a binary classification problem (jam, non-jam). An 
+attempt to generalise the problem is performed by exploring the impact of discriminative 
+versus generative classifiers when employed to produce results in a 30-minute interval 
+ahead of present time. In addition, we present a novel congestion prediction algorithm 
+based on using correlation metrics to improve feature selection. Concerning the 
+visualisation of traffic jams, we present a traffic jam visualisation approach based on 
+cluster analysis that identifies dense congestion areas.
