@@ -1,0 +1,26 @@
+---
+name: TADA2012
+date: 2012-06-04
+type: conference
+authors: Themistoklis Diamantopoulos, Andreas Symeonidis and Anthony Chrysopoulos
+title: 'Designing Robust Strategies for Continuous Trading in Contemporary Power Markets'
+conference: Joint Workshop on Trading Agent Design and Analysis (TADA) and Agent-Mediated Electronic Commerce (AMEC)
+pages: 30-44
+location: Valencia, Spain
+bibtex: TADA2012.bib
+---
+
+In contemporary energy markets participants interact with each other via brokers that 
+are responsible for the proper energy flow to and from their clients (usually in the 
+form of long-term or short-term contracts). Power TAC is a realistic simulation of a 
+real-life energy market, aiming towards providing a better understanding and modeling of 
+modern energy markets, while boosting research on innovative trading strategies. Power 
+TAC models brokers as software agents, competing against each other in Double Auction 
+environments, in order to increase their client base and market share. Current work 
+discusses such a broker agent architecture, striving to maximize his own profit. Within 
+the context of our analysis, Double Auction markets are treated as microeconomic systems 
+and, based on state-of-the-art price formation strategies, the following policies are 
+designed: an adaptive price formation policy, a policy for forecasting energy 
+consumption that employs Time Series Analysis primitives, and two shout update policies, 
+a rule-based policy that acts rather hastily, and one based on Fuzzy Logic. The results 
+are quite encouraging and will certainly call for future research.

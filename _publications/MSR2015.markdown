@@ -1,0 +1,23 @@
+---
+name: MSR2015
+date: 2015-05-22
+type: conference
+authors: Themistoklis Diamantopoulos and Andreas Symeonidis
+title: Employing Source Code Information to Improve Question-answering in Stack Overflow
+conference: IEEE/ACM 12th Working Conference on Mining Software Repositories (MSR)
+pages: 454-457
+location: Florence, Italy
+bibtex: MSR2015.bib
+preprint: http://issel.ee.auth.gr/wp-content/uploads/2015/10/MSR2015.pdf
+---
+
+Nowadays, software development has been greatly influenced by question-answering 
+communities, such as Stack Overflow. A new problem-solving paradigm has emerged, as 
+developers post problems they encounter that are then answered by the community. In this 
+paper, we propose a methodology that allows searching for solutions in Stack Overflow, 
+using the main elements of a question post, including not only its title, tags, and 
+body, but also its source code snippets. We describe a similarity scheme for these 
+elements and demonstrate how structural information can be extracted from source code 
+snippets and compared to further improve the retrieval of questions. The results of our 
+evaluation indicate that our methodology is effective on recommending similar question 
+posts allowing community members to search without fully forming a question.

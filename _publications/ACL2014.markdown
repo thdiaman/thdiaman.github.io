@@ -1,0 +1,22 @@
+---
+name: ACL2014
+date: 2014-06-26
+type: conference
+authors: Michael Roth, Themistoklis Diamantopoulos, Ewan Klein and Andreas L. Symeonidis
+title: 'Software Requirements: A new Domain for Semantic Parsers'
+conference: ACL 2014 Workshop on Semantic Parsing (SP14)
+pages: 50-54
+location: Baltimore, Maryland, USA
+preprint: http://www.aclweb.org/anthology/W/W14/W14-24.pdf#page=62
+bibtex: ACL2014.bib
+---
+
+Software requirements are commonly written in natural language, making them prone to 
+ambiguity, incompleteness and inconsistency. By converting requirements to formal 
+emantic representations, emerging problems can be detected at an early stage of the 
+development process, thus reducing the number of ensuing errors and the development 
+costs. In this paper, we treat the mapping from requirements to formal representations 
+as a semantic parsing task. We describe a novel data set for this task that involves two 
+contributions: first, we establish an ontology for formally representing requirements; 
+and second, we introduce an iterative annotation scheme, in which formal representations 
+are derived through step-wise refinements.

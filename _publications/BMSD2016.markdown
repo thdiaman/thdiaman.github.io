@@ -1,0 +1,25 @@
+---
+name: BMSD2016
+date: 2016-06-20
+type: conference
+authors: Themistoklis Diamantopoulos and Antonis Noutsos and Andreas L. Symeonidis
+title: 'DP-CORE: A Design Pattern Detection Tool for Code Reuse'
+conference: 6th International Symposium on Business Modeling and Software Design (BMSD)
+pages: 160-169
+location: Rhodes, Greece
+bibtex: BMSD2016.bib
+code: https://github.com/AuthEceSoftEng/DP-CORE
+---
+
+In order to maintain, extend or reuse software projects one has to primarily understand 
+what a system does and how well it does it. And, while in some cases information on 
+system functionality exists, information covering the non-functional aspects is usually 
+unavailable. Thus, one has to infer such knowledge by extracting design patterns 
+directly from the source code. Several tools have been developed to identify design 
+patterns, however most of them are limited to compilable and in most cases executable 
+code, they rely on complex representations, and do not offer the developer any control 
+over the detected patterns. In this paper we present DP-CORE, a design pattern detection 
+tool that defines a highly descriptive representation to detect known and define custom 
+patterns. DP-CORE is flexible, identifying exact and approximate pattern versions even 
+in non-compilable code. Our analysis indicates that DP-CORE provides an efficient 
+alternative to existing design pattern detection tools.
