@@ -93,7 +93,8 @@ h1, h2, h3, h4, h5, h6 {
 a {
     color: $brand-color;
     text-decoration: none;
-
+    font-weight: 100;
+    
    &:visited {
     /*    color: darken($brand-color, 15%); */
     } 
@@ -104,17 +105,22 @@ a {
     }
 }
 
+.page-link{
+    font-weight: bold;
+}
+
 /**
  * Publications css
  */
 .pubinput { display:none; }
 .pubspan { display:none; }
 .labellink {
-    color: $brand-color;
+    color: #428bca;
     text-decoration: none;
     cursor: pointer;
+    font-weight: 100;
     &:hover {
-        color: $text-color;
+        color: #2a6496;
         text-decoration: underline;
     }
 }

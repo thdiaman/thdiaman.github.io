@@ -48,17 +48,17 @@ $font-family-sans-serif:  "Helvetica Neue", Helvetica, Arial, sans-serif !defaul
 $font-family-serif:       Georgia, "Times New Roman", Times, serif !default;
 //** Default monospace fonts for `<code>`, `<kbd>`, and `<pre>`.
 $font-family-monospace:   Menlo, Monaco, Consolas, "Courier New", monospace !default;
-$font-family-base:        $font-family-sans-serif !default;
+$font-family-base:        'Open Sans', Helvetica, Arial, sans-serif; // $font-family-sans-serif !default;
 
-$font-size-body:          87.5% !default; // 14px
+$font-size-body:          93.75% !default; // 14px
 $font-size-base:          14px !default;
 $font-size-large:         ceil(($font-size-base * 1.25)) !default; // ~18px
 $font-size-small:         ceil(($font-size-base * 0.85)) !default; // ~12px
 
-$font-size-h1:            floor(($font-size-base * 2.6)) !default; // ~36px
-$font-size-h2:            floor(($font-size-base * 2.15)) !default; // ~30px
-$font-size-h3:            ceil(($font-size-base * 1.7)) !default; // ~24px
-$font-size-h4:            ceil(($font-size-base * 1.25)) !default; // ~18px
+$font-size-h1:            floor(($font-size-base * 1.42)) !default; // ~20px
+$font-size-h2:            floor(($font-size-base * 1.25)) !default; // ~17.5px
+$font-size-h3:            ceil(($font-size-base * 1.14)) !default; // ~16px
+$font-size-h4:            $font-size-base !default;
 $font-size-h5:            $font-size-base !default;
 $font-size-h6:            ceil(($font-size-base * 0.85)) !default; // ~12px
 
@@ -71,7 +71,7 @@ $line-height-computed:    floor(($font-size-base * $line-height-base)) !default;
 $headings-font-family:    inherit !default;
 $headings-font-weight:    500 !default;
 $headings-line-height:    1.1 !default;
-$headings-color:          inherit !default;
+$headings-color:          #522d80; // inherit !default;
 
 
 //== Iconography

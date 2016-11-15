@@ -179,9 +179,12 @@
     margin-bottom: $spacing-unit;
 }
 
-h1 /* .post-title */ {
+h1.post-title {
 /*    font-size: 42px; */
     letter-spacing: -1px;
+    margin-top: 0;
+    font-size: 2em;
+    
     line-height: 1;
 		font-family: 'Titillium Web', sans-serif;
 		color: #522d80;

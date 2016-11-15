@@ -47,7 +47,9 @@ $on-laptop:        950px;
     }
 }
 
-
+// $font-family-base: 'Open Sans', Helvetica, Arial, sans-serif;
+// $headings-color:   #522d80;
+// $font-size-base:   15px;
 
 // Import partials from `sass_dir` (defaults to `_sass`)
 @import
@@ -56,5 +58,6 @@ $on-laptop:        950px;
         "base",
         "layout",
         "syntax-highlighting",
-	"fancy-image"
+	"fancy-image",
+	"bootstrap"
 ;
