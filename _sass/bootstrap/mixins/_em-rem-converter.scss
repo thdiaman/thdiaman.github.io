@@ -42,11 +42,11 @@
         // px value given - calculate rem value from font-size
         $new-rem-value: $value / $font-size;
         $px-values: join($px-values, round($value));
-        $rem-values: join($rem-values, #{$new-rem-value}rem);
+        $rem-values: join($rem-values, "#{$new-rem-value}rem");
       } @else if type-of($value) == number and not unitless($value) and (unit($value) == "%") {
         // % value given - don't add px or rem
-        $px-values: join($px-values, #{$value});
-        $rem-values: join($rem-values, #{$value});
+        $px-values: join($px-values, "#{$value}");
+        $rem-values: join($rem-values, "#{$value}");
       } @else if $value == auto {
         // auto - don't add px or rem
         $px-values: join($px-values, auto);
