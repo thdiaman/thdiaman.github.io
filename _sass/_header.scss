@@ -162,6 +162,7 @@ z-index:999;
         color: #ffffff;
     background: $clemson-orange;
         line-height: $base-line-height;
+        padding-bottom: 10px;
 
         // Gaps between nav items, but not on the first one
         &:not(:first-child) {
