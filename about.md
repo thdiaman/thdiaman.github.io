@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-{% include image.html url="/images/profile.png" width=158 align="left" %}
+<img class="alignleft" src="/images/profile.png" style="max-width: 158px;"/>
 
 My name is Themistoklis Diamantopoulos and I am currently a PhD candidate at the Intelligent 
 Systems &amp; Software Engineering Labgroup of the Aristotle University of Thessaloniki.
