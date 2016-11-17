@@ -15,7 +15,9 @@ permalink: blog/:year/:month/:title
 job.title: "PhD Candidate \ Research Associate"
 excerpt_separator: "<!--more-->"
 collections:
-- publications
+  publications:
+  software:
+    output: true
 
 # SEO stuff
 # google_author: ""
