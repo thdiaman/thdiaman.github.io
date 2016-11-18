@@ -12,7 +12,7 @@ permalink: /software/
       <a href="{{ tool.name }}"><img class="aligncenter" src="{{ tool.image }}" style="height: 120px;"/></a>
       <h2><a href="{{ tool.name }}">{{ tool.name }}</a></h2>
       <p>{{ tool.description }}</p>
-      <a href="{{ tool.name }}">Learn more</a>
+      <a href="{{ tool.name }}">Read more</a>
       <br/><br/>
     </div>
   {% endfor %}
