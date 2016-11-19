@@ -15,5 +15,5 @@ these interests.
 I am also an active developer in Java, Python, R, Javascript, etc. and have
 experience in several frameworks and libraries. You can find most information
 about me and my work by checking this website, however you can also check my 
-<a href="">LinkedIn</a> and <a href="">GitHub</a> accounts.
+<a target="_blank" href="https://gr.linkedin.com/in/thdiaman">LinkedIn</a> and <a target="_blank" href="https://github.com/thdiaman">GitHub</a> accounts.
 
