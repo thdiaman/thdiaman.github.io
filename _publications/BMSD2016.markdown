@@ -9,6 +9,7 @@ pages: 160-169
 location: Rhodes, Greece
 bibtex: BMSD2016.bib
 code: https://github.com/AuthEceSoftEng/DP-CORE
+preprint: http://issel.ee.auth.gr/wp-content/uploads/2016/09/DP-CORE.pdf
 ---
 
 In order to maintain, extend or reuse software projects one has to primarily understand 
