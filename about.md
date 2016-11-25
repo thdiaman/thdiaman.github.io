@@ -25,8 +25,9 @@ Machine Learning, and Multi-Agent Systems. I have worked as a research associate
 project eCOMPASS (eCO-friendly urban Multi-modal route PlAnning Services for mobile uSers) as 
 part of my work in the Informatics and Telematics Institute (ITI) of Centre for Research and 
 Technology - Hellas (CERTH). After that, I worked as a research associate in the EU-funded 
-project S-CASE (Scaffolding and Scalable Software Services). 
+project S-CASE (Scaffolding Scalable Software Services). 
 In the meantime, I have begun my PhD research in the field of applying Data Mining techniques on 
 Software Engineering data at the Aristotle University of Thessaloniki. Currently I continue 
-working on my PhD thesis, while also working in project SEAF (Sustainable Energy Asset Evaluation and Optimisation Frameworks)
+working on my PhD thesis, while also working in project SEAF (Sustainable Energy Asset
+Evaluation and Optimisation Framework).
 
