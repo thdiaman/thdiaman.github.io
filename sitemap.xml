@@ -53,4 +53,28 @@ sitemap:
     </url>
     {% endunless %}
   {% endfor %}
+  {% for tool in site.software %}
+    {% unless tool.sitemap.exclude == "yes" %}
+    <url>
+      <loc>{{ site.url }}{{ tool.url | remove: "index.html" }}</loc>
+      {% if tool.sitemap.lastmod %}
+        <lastmod>{{ tool.sitemap.lastmod | date: "%Y-%m-%d" }}</lastmod>
+      {% elsif tool.date %}
+        <lastmod>{{ tool.date | date_to_xmlschema }}</lastmod>
+      {% else %}
+        <lastmod>{{ site.time | date_to_xmlschema }}</lastmod>
+      {% endif %}
+      {% if tool.sitemap.changefreq %}
+        <changefreq>{{ tool.sitemap.changefreq }}</changefreq>
+      {% else %}
+        <changefreq>monthly</changefreq>
+      {% endif %}
+      {% if tool.sitemap.priority %}
+        <priority>{{ tool.sitemap.priority }}</priority>
+      {% else %}
+        <priority>0.3</priority>
+      {% endif %}
+    </url>
+    {% endunless %}
+  {% endfor %}
 </urlset>
