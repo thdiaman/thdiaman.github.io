@@ -2,7 +2,7 @@
 title: Themistoklis Diamantopoulos
 email: thdiaman@issel.ee.auth.gr
 description: > # this means to ignore newlines until "baseurl:"
-  (c) 2016 Themistoklis Diamantopoulos
+  Personal website of Themistoklis Diamantopoulos#
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://thdiaman.github.io" # the base hostname & protocol for your site
 github_username:  thdiaman
