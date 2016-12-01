@@ -28,6 +28,7 @@ collections:
 gems:
   - jekyll-sitemap
   - jekyll-seo-tag
+  - jekyll-feed
 
 # SEO stuff
 # google_author: ""
