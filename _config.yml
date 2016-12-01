@@ -1,7 +1,7 @@
 # Site settings
 title: Themistoklis Diamantopoulos
 email: thdiaman@issel.ee.auth.gr
-description: Personal website of Themistoklis Diamantopoulos # this means to ignore newlines until "baseurl:"
+description: Hi, my name is Themistoklis Diamantopoulos and this is my website including my current research on data mining and software engineering # this means to ignore newlines until "baseurl:"
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "https://thdiaman.github.io" # the base hostname & protocol for your site
 github_username:  thdiaman
