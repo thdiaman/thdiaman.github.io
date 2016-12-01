@@ -3,8 +3,15 @@ title: Themistoklis Diamantopoulos
 email: thdiaman@issel.ee.auth.gr
 description: Personal website of Themistoklis Diamantopoulos # this means to ignore newlines until "baseurl:"
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: "http://thdiaman.github.io" # the base hostname & protocol for your site
+url: "https://thdiaman.github.io" # the base hostname & protocol for your site
 github_username:  thdiaman
+twitter:
+  username: thdiaman
+social:
+  links:
+    - https://twitter.com/thdiaman
+    - https://www.linkedin.com/in/thdiaman
+    - https://github.com/thdiaman
 
 # Build settings
 markdown: kramdown
@@ -17,6 +24,10 @@ collections:
   publications:
   software:
     output: true
+
+gems:
+  - jekyll-sitemap
+  - jekyll-seo-tag
 
 # SEO stuff
 # google_author: ""
