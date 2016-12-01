@@ -31,3 +31,5 @@ Software Engineering data at the Aristotle University of Thessaloniki. Currently
 working on my PhD thesis, while also working in project SEAF (Sustainable Energy Asset
 Evaluation and Optimisation Framework).
 
+You can find a full version of my CV in <a target="_blank" href="https://gr.linkedin.com/in/thdiaman">LinkedIn</a> and check my <a target="_blank" href="https://github.com/thdiaman">GitHub</a> account for my development activity. I also intend to post updates for my current research activity on <a target="_blank" href="https://twitter.com/thdiaman">Twitter</a>.
+
