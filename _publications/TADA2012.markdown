@@ -7,6 +7,7 @@ title: 'Designing Robust Strategies for Continuous Trading in Contemporary Power
 conference: Joint Workshop on Trading Agent Design and Analysis (TADA) and Agent-Mediated Electronic Commerce (AMEC)
 pages: 30-44
 location: Valencia, Spain
+preprint: https://issel.ee.auth.gr/wp-content/uploads/2017/01/Designing-Robust-Strategies-for-Continuous-Trading-in-Contemporary-Power-Markets.pdf
 bibtex: TADA2012.bib
 ---
 

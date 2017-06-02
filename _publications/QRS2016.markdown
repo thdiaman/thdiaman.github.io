@@ -7,6 +7,7 @@ title: 'User-Perceived Source Code Quality Estimation based on Static Analysis M
 conference: 2016 IEEE International Conference on Software Quality, Reliability and Security (QRS)
 pages: 100-107
 location: Vienna, Austria
+preprint: https://issel.ee.auth.gr/wp-content/uploads/2017/01/User-Perceived-Source-Code-Quality-Estimation-based-on-Static-Analysis-Metrics.pdf
 bibtex: QRS2016.bib
 ---
 
