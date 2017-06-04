@@ -5,7 +5,7 @@ name: ASTExtractor
 order: 1
 description: Abstract Syntax Tree Extractor for Java Source Code
 image: ASTExtractor.png
-release: https://github.com/thdiaman/ASTExtractor/releases/download/v0.3/ASTExtractor-0.3.zip
+release: https://github.com/thdiaman/ASTExtractor/releases/download/v0.4/ASTExtractor-0.4.zip
 code: https://github.com/thdiaman/ASTExtractor
 documentation: http://thdiaman.github.io/ASTExtractor/
 ---
