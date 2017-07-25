@@ -5,9 +5,11 @@ type: journal
 authors: Themistoklis Diamantopoulos, Michael Roth, Andreas Symeonidis and Ewan Klein
 title: 'Software Requirements as an Application Domain for Natural Language Processing'
 journal: Language Resources and Evaluation
+volume: 51
+number: 2
+pages: 495-524
 preprint: https://issel.ee.auth.gr/wp-content/uploads/2017/05/lre14.pdf
 bibtex: LRE2017.bib
-state: in press
 ---
 
 Mapping functional requirements first to specifications and then to code is one of the most challenging tasks in software development. Since requirements are commonly written in natural language, they can be prone to ambiguity, incompleteness and inconsistency. Structured semantic representations allow requirements to be translated to formal models, which can be used to detect problems at an early stage of the development process through validation. Storing and querying such models can also facilitate software reuse. Several approaches constrain the input format of requirements to produce specifications, however they usually require considerable human effort in order to adopt domain-specific heuristics and/or controlled languages. We propose a mechanism that automates the mapping of requirements to formal representations using semantic role labeling. We describe the first publicly available dataset for this task, employ a hierarchical framework that allows requirements concepts to be annotated, and discuss how semantic role labeling can be adapted for parsing software requirements.

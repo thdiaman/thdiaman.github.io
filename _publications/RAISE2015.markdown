@@ -8,6 +8,7 @@ conference: IEEE/ACM 4th International Workshop on Realizing Artificial Intellig
 pages: 32-38
 location: Florence, Italy
 bibtex: RAISE2015.bib
+preprint: https://issel.ee.auth.gr/wp-content/uploads/2017/01/Towards-Interpretable-Defect-Prone-Component-Analysis-using-Genetic-Fuzzy-Systems-.pdf
 ---
 
 The problem of Software Reliability Prediction is attracting the attention of several 
