@@ -11,7 +11,7 @@ Since this is my first blog post, it's only fair to start by noting down
 the resources used to create this website. This website is created using
 a static site generator named <a href="http://jekyllrb.com">jekyll</a>
 and originally used the
-<a href="https://github.com/svmiller/steve-ngvb-jekyll-template">Steve's No-Good-Very-Bad Jekyll Theme</a>,
+<a target="_blank" href="https://github.com/svmiller/steve-ngvb-jekyll-template">Steve's No-Good-Very-Bad Jekyll Theme</a>,
 which --by the way-- is actually quite good.
-The site is hosted using <a href="https://pages.github.com/">GitHub Pages</a>
-and you can even check its source in a GitHub <a href="https://github.com/thdiaman/thdiaman.github.io">repo</a>.
+The site is hosted using <a target="_blank" href="https://pages.github.com/">GitHub Pages</a>
+and you can even check its source in a GitHub <a target="_blank" href="https://github.com/thdiaman/thdiaman.github.io">repo</a>.
