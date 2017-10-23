@@ -5,9 +5,11 @@ type: journal
 authors: Christoforos Zolotas, Themistoklis Diamantopoulos, Kyriakos Chatzidimitriou and Andreas Symeonidis
 title: 'From requirements to source code: a Model-Driven Engineering approach for RESTful web services'
 journal: Automated Software Engineering
+volume: 24
+number: 4
+pages: 791-838
 preprint: http://issel.ee.auth.gr/wp-content/uploads/2016/09/ReqsToCodeMDE.pdf
 bibtex: ASE2016.bib
-state: in press
 ---
 
 During the last few years, the REST architectural style has drastically changed
