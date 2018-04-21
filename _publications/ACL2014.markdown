@@ -7,7 +7,7 @@ title: 'Software Requirements: A new Domain for Semantic Parsers'
 conference: ACL 2014 Workshop on Semantic Parsing (SP14)
 pages: 50-54
 location: Baltimore, Maryland, USA
-preprint: http://www.aclweb.org/anthology/W/W14/W14-24.pdf#page=62
+preprint: http://www.aclweb.org/anthology/W14-2410.pdf
 bibtex: ACL2014.bib
 ---
 
