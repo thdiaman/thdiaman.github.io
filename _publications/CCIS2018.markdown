@@ -1,0 +1,13 @@
+---
+name: CCIS2018
+date: 2017-06-08
+type: bookchapter
+authors: Valasia Dimaridou, Alexandros-Charalampos Kyprianidis, Michail Papamichail, Themistoklis Diamantopoulos and Andreas L. Symeonidis
+title: 'Assessing the User-Perceived Quality of Source Code Components using Static Analysis Metrics'
+book: Communications in Computer and Information Science (CCIS)
+volume: 868
+pages: 3-27
+bibtex: CCIS2018.bib
+---
+
+Abstract will be available after publication

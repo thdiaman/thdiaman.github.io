@@ -10,6 +10,12 @@ permalink: /publications/
   {% include publication.html %}
 {% endfor %}
 
+<h1>Book Chapters</h1>
+{% assign bookchapters = site.publications | where: "type" , "bookchapter" | sort: 'date' | reverse %}
+{% for pub in bookchapters %}
+  {% include publication.html %}
+{% endfor %}
+
 <h1>Conference Papers</h1>
 {% assign conferences = site.publications | where: "type" , "conference" | sort: 'date' | reverse %}
 {% for pub in conferences %}

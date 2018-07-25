@@ -4,7 +4,15 @@
     {% if pub.state %}
       {{ pub.state }},
     {% else %}
-      vol {{ pub.volume }}, no {{ pub.number}}, pp. {{ pub.pages }},
+      vol {{ pub.volume }}, {% if pub.number %}no {{ pub.number}}, {% endif %}pp. {{ pub.pages }},
+    {% endif %}
+    {{ pub.date | date: "%B %Y" }}.
+  {% elsif pub.type == "bookchapter" %}
+    {{ pub.authors }}, "{{ pub.title }}", in {{ pub.book }},
+    {% if pub.state %}
+      {{ pub.state }},
+    {% else %}
+      vol {{ pub.volume }}, {% if pub.number %}no {{ pub.number}}, {% endif %}pp. {{ pub.pages }},
     {% endif %}
     {{ pub.date | date: "%B %Y" }}.
   {% elsif pub.type == "conference" %}

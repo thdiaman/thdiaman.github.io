@@ -1,0 +1,23 @@
+---
+name: EIS2017
+date: 2017-12-15
+type: journal
+authors: Themistoklis Diamantopoulos and Andreas Symeonidis
+title: 'Enhancing Requirements Reusability through Semantic Modeling and Data Mining Techniques'
+journal: Enterprise Information Systems
+state: pp. 1-22
+bibtex: EIS2017.bib
+---
+
+Enhancing the requirements elicitation process has always been of added value to software engineers,
+since it expedites the software lifecycle and reduces errors in the conceptualization phase of 
+software products. The challenge posed to the research community is to construct formal models that 
+are capable of storing requirements from multimodal formats (text and UML diagrams) and promote easy 
+requirements reuse, while at the same time being traceable to allow full control of the system design, 
+as well as comprehensible to software engineers and end users. In this work, we present an approach 
+that enhances requirements reuse while capturing the static (functional requirements, use case diagrams) 
+and dynamic (activity diagrams) view of software projects. Our ontology-based approach allows for 
+reasoning over the stored requirements, while the mining methodologies employed detect incomplete 
+or missing software requirements, this way reducing the effort required for requirements elicitation 
+at an early stage of the project lifecycle.
+
