@@ -10,4 +10,19 @@ pages: 3-27
 bibtex: CCIS2018.bib
 ---
 
-Abstract will be available after publication
+Nowadays, developers tend to adopt a component-based software engineering approach, reusing own
+implementations and/or resorting to third-party source code. This practice is in principle
+cost-effective, however it may also lead to low quality software products, if the components to
+be reused exhibit low quality. Thus, several approaches have been developed to measure the
+quality of software components. Most of them, however, rely on the aid of experts for defining
+target quality scores and deriving metric thresholds, leading to results that are
+context-dependent and subjective. In this work, we build a mechanism that employs static
+analysis metrics extracted from GitHub projects and defines a target quality score based on
+repositories' stars and forks, which indicate their adoption/acceptance by developers. Upon
+removing outliers with a one-class classifier, we employ Principal Feature Analysis and examine
+the semantics among metrics to provide an analysis on five axes for source code components
+(classes or packages): complexity, coupling, size, degree of inheritance, and quality of
+documentation. Neural networks are thus applied to estimate the final quality score given
+metrics from these axes. Preliminary evaluation indicates that our approach effectively
+estimates software quality at both class and package levels.
+
