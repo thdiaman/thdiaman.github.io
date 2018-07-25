@@ -1,0 +1,24 @@
+---
+name: MSR2018
+date: 2018-05-28
+type: conference
+authors: Kyriakos C. Chatzidimitriou, Michail Papamichail, Themistoklis Diamantopoulos, Michail Tsapanos, and Andreas L. Symeonidis
+title: 'npm-miner: An Infrastructure for Measuring the Quality of the npm Registry'
+conference: IEEE/ACM 15th International Conference on Mining Software Repositories (MSR)
+pages: 42-45
+location: Gothenburg, Sweden
+bibtex: MSR2018.bib
+preprint: http://issel.ee.auth.gr/wp-content/uploads/2018/03/msr2018.pdf
+code: https://github.com/AuthEceSoftEng/msr-2018-npm-miner
+dataset: https://doi.org/10.5281/zenodo.1165550
+---
+
+As the popularity of the JavaScript language is constantly increasing, one of the most
+important challenges today is to assess the quality of JavaScript packages. Developers
+often employ tools for code linting and for the extraction of static analysis metrics
+in order to assess and/or improve their code. In this context, we have developed
+npn-miner, a platform that crawls the npm registry and analyzes the packages using
+static analysis tools in order to extract detailed quality metrics as well as
+high-level quality attributes, such as maintainability and security. Our infrastructure
+includes an index that is accessible through a web interface, while we have also
+constructed a dataset with the results of a detailed analysis for 2000 popular npm packages.
