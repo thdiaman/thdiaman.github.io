@@ -1,0 +1,26 @@
+---
+name: FASE2018
+date: 2018-04-19
+type: conference
+authors: Nikolaos Katirtzis, Themistoklis Diamantopoulos, and Charles Sutton
+title: 'Summarizing Software API Usage Examples using Clustering Techniques'
+conference: 21th International Conference on Fundamental Approaches to Software Engineering (FASE)
+pages: 189-206
+location: Thessaloniki, Greece
+bibtex: FASE2018.bib
+preprint: http://homepages.inf.ed.ac.uk/csutton/publications/clamsFase2018.pdf
+code: https://github.com/mast-group/clams
+dataset: https://mast-group.github.io/clams/
+---
+
+As developers often use third-party libraries to facilitate software development, the
+lack of proper API documentation for these libraries undermines their reuse potential.
+And although several approaches extract usage examples for libraries, they are usually
+tied to specific language implementations, while their produced examples are often
+redundant and are not presented as concise and readable snippets. In this work, we
+propose a novel approach that extracts API call sequences from client source code and
+clusters them to produce a diverse set of source code snippets that effectively covers
+the target API. We further construct a summarization algorithm to present concise and
+readable snippets to the users. Upon evaluating our system on software libraries, we
+indicate that it achieves high coverage in API methods, while the produced snippets
+are of high quality and closely match handwritten examples.
