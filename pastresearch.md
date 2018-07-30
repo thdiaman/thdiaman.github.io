@@ -5,6 +5,7 @@ permalink: /pastresearch/
 ---
 
 These are research areas that I have worked on during the past few years.
+For my current research work click <a href="/research/">here</a>.
 
 <h1>Intelligent Transportation Systems</h1>
 <img class="alignleft" src="/images/traffic.png" style="width: 335px;"/>
