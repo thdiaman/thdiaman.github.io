@@ -5,7 +5,7 @@ name: WNTools
 order: 4
 description: Natural Language Processing tool suite based on WordNet
 image: WNTools.png
-release: https://github.com/thdiaman/WNTools/releases/download/v0.1/WNTools-0.1.zip
+release: https://github.com/thdiaman/WNTools/releases/latest
 code: https://github.com/thdiaman/WNTools
 ---
 

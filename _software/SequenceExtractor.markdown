@@ -5,7 +5,7 @@ name: SequenceExtractor
 order: 3
 description: Statement Sequence Extractor for Java Source Code Snippets
 image: SequenceExtractor.png
-release: https://github.com/thdiaman/SequenceExtractor/releases/download/v0.2/SequenceExtractor-0.2.zip
+release: https://github.com/thdiaman/SequenceExtractor/releases/latest
 code: https://github.com/thdiaman/SequenceExtractor
 documentation: http://thdiaman.github.io/SequenceExtractor/
 ---
