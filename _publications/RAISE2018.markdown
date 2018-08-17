@@ -2,7 +2,7 @@
 name: RAISE2018
 date: 2018-05-23
 type: conference
-authors: Themistoklis Diamantopoulos and Andreas Symeonidis
+authors: Themistoklis Diamantopoulos, Georgios Karagiannopoulos, and Andreas Symeonidis
 title: "CodeCatch: Extracting Source Code Snippets from Online Sources"
 conference: IEEE/ACM 6th International Workshop on Realizing Artificial Intelligence Synergies in Software Engineering (RAISE)
 pages: 21-27
