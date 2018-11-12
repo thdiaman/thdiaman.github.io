@@ -8,6 +8,7 @@ conference: IEEE/ACM 6th International Workshop on Realizing Artificial Intellig
 pages: 21-27
 location: Gothenburg, Sweden
 bibtex: RAISE2018.bib
+preprint: https://issel.ee.auth.gr/wp-content/uploads/2018/11/RAISE2018.pdf
 ---
 
 Nowadays, developers rely on online sources to find example snippets that address the 
