@@ -1,0 +1,25 @@
+---
+name: MSR2019
+date: 2019-05-26
+type: conference
+authors: Themistoklis Diamantopoulos, Maria-Ioanna Sifaki, and Andreas L. Symeonidis
+title: 'Towards Mining Answer Edits to Extract Evolution Patterns in Stack Overflow'
+conference: IEEE/ACM 16th International Conference on Mining Software Repositories (MSR)
+pages: 215-219
+location: Montreal, Canada
+bibtex: MSR2019.bib
+preprint: https://issel.ee.auth.gr/wp-content/uploads/2019/03/MSR2019.pdf
+code: https://github.com/AuthEceSoftEng/MiningSOAnswerEdits
+---
+
+The current state of practice dictates that in order to solve a problem encountered
+when building software, developers ask for help in online platforms, such as Stack
+Overflow. In this context of collaboration, answers to question posts often undergo
+several edits to provide the best solution to the problem stated. In this work, we
+explore the potential of mining Stack Overflow answer edits to extract common patterns
+when answering a post. In particular, we design a similarity scheme that takes into
+account the text and code of answer edits and cluster edits according to their semantics.
+Upon applying our methodology, we provide frequent edit patterns and indicate how
+they could be used to answer future research questions. Assessing our approach indicates
+that it can be effective for identifying commonly applied edits, thus illustrating
+the transformation path from the initial answer to the optimal solution.
