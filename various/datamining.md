@@ -5,7 +5,9 @@ permalink: /various/datamining/
 ---
 
 Data Mining is an area that I have worked on extensively, both as part of my PhD research and as part of
-teaching. This page includes useful resources on Data Mining and Machine Learning, as well as information
+teaching. I have also taught a seminar about Machine Learning with Python, so I have structured the
+material and uploaded it online. You can check it out <a href="https://thdiaman.github.io/machinelearning/">here</a>.
+This page includes useful resources on Data Mining and Machine Learning, as well as information
 about the book that I have co-authored on applying machine learning algorithms in R (available
 <a target="_blank" href="https://leanpub.com/practical-machine-learning-r">here</a>).
 
