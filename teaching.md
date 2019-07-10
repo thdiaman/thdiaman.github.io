@@ -7,6 +7,20 @@ permalink: /teaching/
 In this page, one may find information about the courses that I have taught, co-taught (or taught as part of my 
 teaching assistant responsibilities) over the years.
 
+<h1>Object-Oriented Programming</h1>
+<h5 style="font-style: italic;">Electrical and Computer Engineering Department, Aristotle University of Thessaloniki</h5>
+<h5 style="font-style: italic;">Academic Years teaching: 2018-2019</h5>
+<p>The aim of this course is to introduce students to object-oriented programming. It includes the concepts of encapsulation, inheritance, and polymorphism, and teaches students how to model their software using UML class diagrams and how to write code in C++.
+I have worked as a visiting lecturer in this course, creating the lecture slides, the lab material and the assignments, and teaching the lectures and the lab exercises.
+More information about this course can be found <a target="_blank" href="https://qa.auth.gr/en/class/1/600135663">here</a>.
+
+<h1>Database Systems</h1>
+<h5 style="font-style: italic;">Electrical and Computer Engineering Department, Aristotle University of Thessaloniki</h5>
+<h5 style="font-style: italic;">Academic Years teaching: 2018-2019</h5>
+<p>The aim of this course is to introduce students to the concepts of databases. It includes relational database design, relational algebra, SQL, and discusses also the concepts of NoSQL databases and big data.
+I have worked as a visiting lecturer in this course, creating the lecture slides, the lab material and the assignments, and teaching the lectures and the lab exercises.
+More information about this course can be found <a target="_blank" href="https://qa.auth.gr/en/class/1/600058019">here</a>.
+
 <h1>Data Mining</h1>
 <h5 style="font-style: italic;">MSc in Medical Research Methodology, Medical School, Aristotle University of Thessaloniki</h5>
 <h5 style="font-style: italic;">Academic Years teaching: 2017-2018</h5>
