@@ -15,7 +15,7 @@ have changed the way software is developed. Effective collaboration within softw
 teams has become crucial for building successful products. In this context, harnessing
 the data available in online code hosting facilities can help towards understanding
 how teams work and optimizing the development process. Although there are several
-approaches that mine contributions’ data, they usually view contributors as a uniform
+approaches that mine contributions' data, they usually view contributors as a uniform
 body of engineers, and focus mainly on the aspect of productivity while neglecting the
 quality of the work performed. In this work, we design a methodology for identifying
 engineer roles in development teams and determine the behaviors that prevail for each

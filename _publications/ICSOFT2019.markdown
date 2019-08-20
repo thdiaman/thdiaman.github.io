@@ -16,8 +16,8 @@ to the extend that often the size of dependencies has become more than the size 
 written code. This reuse-oriented paradigm, often attributed to the lack of a standard
 library in node and/or in the micropackaging culture of the ecosystem, yields interesting
 insights on the way developers build their packages. In this work we view the dependency
-network of the npm ecosystem from a “culinary” perspective. We assume that dependencies are
+network of the npm ecosystem from a "culinary" perspective. We assume that dependencies are
 the ingredients in a recipe, which corresponds to the produced software package. We employ
 network analysis and information retrieval techniques in order to capture the dependencies
 that tend to co-occur in the development of npm packages and identify the communities that
-have been evolved as the main drivers for npm’s exponential growth.
+have been evolved as the main drivers for npm's exponential growth.
