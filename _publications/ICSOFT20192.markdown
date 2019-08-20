@@ -8,6 +8,7 @@ conference: 14th International Conference on Software Technologies (ICSOFT)
 pages: 536-543
 location: Prague, Czech Republic
 bibtex: ICSOFT20192.bib
+preprint: https://issel.ee.auth.gr/wp-content/uploads/2019/08/ICSOFT_DevOps.pdf
 ---
 
 Lately, the popular open source paradigm and the adoption of agile methodologies

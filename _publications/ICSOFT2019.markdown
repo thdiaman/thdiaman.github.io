@@ -8,6 +8,7 @@ conference: 14th International Conference on Software Technologies (ICSOFT)
 pages: 544-551
 location: Prague, Czech Republic
 bibtex: ICSOFT2019.bib
+preprint: https://issel.ee.auth.gr/wp-content/uploads/2019/08/ICSOFT_NPMRecipes.pdf
 ---
 
 The sharing and growth of open source software packages in the npm JavaScript (JS)

@@ -8,6 +8,7 @@ conference: 2019 IEEE International Conference on Software Quality, Reliability 
 pages: 121-130
 location: Sofia, Bulgaria
 bibtex: QRS2019.bib
+preprint: https://issel.ee.auth.gr/wp-content/uploads/2019/08/QRS2019.pdf
 code: https://github.com/AuthEceSoftEng/CodeSummarizer
 ---
 
