@@ -1,0 +1,25 @@
+---
+name: QRS2019
+date: 2019-07-23
+type: conference
+authors: Christos Psarras, Themistoklis Diamantopoulos and Andreas Symeonidis
+title: 'A Mechanism for Automatically Summarizing Software Functionality from Source Code'
+conference: 2019 IEEE International Conference on Software Quality, Reliability and Security (QRS)
+pages: 121-130
+location: Sofia, Bulgaria
+bibtex: QRS2019.bib
+code: https://github.com/AuthEceSoftEng/CodeSummarizer
+---
+
+When developers search online to find software components to reuse, they usually
+first need to understand the container projects/libraries, and subsequently identify
+the required functionality. Several approaches identify and summarize the offerings
+of projects from their source code, however they often require that the developer has
+knowledge of the underlying topic modeling techniques; they do not provide a mechanism
+for tuning the number of topics, and they offer no control over the top terms for each
+topic. In this work, we use a vectorizer to extract information from variable/method
+names and comments, and apply Latent Dirichlet Allocation to cluster the source code
+files of a project into different semantic topics. The number of topics is optimized
+based on their purity with respect to project packages, while topic categories are
+constructed to provide further intuition and Stack Exchange tags are used to express
+the topics in more abstract terms.
