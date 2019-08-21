@@ -8,6 +8,7 @@ conference: 2018 IEEE International Workshop on Machine Learning Techniques for 
 pages: 49-54
 location: Campobasso, Italy
 bibtex: MALTESQUE2018.bib
+preprint: https://www.researchgate.net/profile/Michail_Papamichail/publication/324106989_User-Perceived_Reusability_Estimation_based_on_Analysis_of_Software_Repositories/links/5c80e27a458515831f8b40c1/User-Perceived-Reusability-Estimation-based-on-Analysis-of-Software-Repositories.pdf
 ---
 
 The popularity of open-source software repositories has led to a new reuse paradigm, 

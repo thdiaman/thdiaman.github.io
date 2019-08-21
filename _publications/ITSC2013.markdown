@@ -8,6 +8,7 @@ conference: 16th International IEEE Conference on Intelligent Transportation Sys
 location: Hague, Netherlands
 pages: 412-417
 bibtex: ITSC2013.bib
+preprint: https://www.researchgate.net/profile/Themistoklis_Diamantopoulos/publication/269332283_Investigating_the_effect_of_global_metrics_in_travel_time_forecasting/links/5d5d5e8da6fdcc55e81e8e86/Investigating-the-effect-of-global-metrics-in-travel-time-forecasting.pdf
 ---
 
 The effect of traffic in routing, either for individuals or fleets, becomes more and 

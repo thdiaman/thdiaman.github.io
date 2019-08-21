@@ -7,6 +7,7 @@ title: 'Enhancing Requirements Reusability through Semantic Modeling and Data Mi
 journal: Enterprise Information Systems
 state: pp. 1-22
 bibtex: EIS2017.bib
+preprint: https://issel.ee.auth.gr/wp-content/uploads/2019/08/EIS2017.pdf
 ---
 
 Enhancing the requirements elicitation process has always been of added value to software engineers,

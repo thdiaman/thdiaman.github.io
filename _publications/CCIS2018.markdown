@@ -8,6 +8,7 @@ book: Communications in Computer and Information Science (CCIS)
 volume: 868
 pages: 3-27
 bibtex: CCIS2018.bib
+preprint: https://www.researchgate.net/profile/Michail_Papamichail/publication/325627162_Assessing_the_User-Perceived_Quality_of_Source_Code_Components_Using_Static_Analysis_Metrics/links/5c80e2b092851c69505c96cf/Assessing-the-User-Perceived-Quality-of-Source-Code-Components-Using-Static-Analysis-Metrics.pdf
 ---
 
 Nowadays, developers tend to adopt a component-based software engineering approach, reusing own
