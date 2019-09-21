@@ -1,0 +1,13 @@
+---
+name: JSS2019
+date: 2019-09-17
+type: journal
+authors: Michail D. Papamichail, Themistoklis Diamantopoulos and Andreas L.Symeonidis
+title: 'Measuring the Reusability of Software Components using Static Analysis Metrics and Reuse Rate Information'
+journal: Systems and Software
+state: pp. 1-16
+preprint: https://issel.ee.auth.gr/wp-content/uploads/2019/09/2019mpapamicJSS.pdf
+bibtex: JSS2019.bib
+---
+
+Nowadays, the continuously evolving open-source community and the increasing demands of end users are forming a new software development paradigm; developers rely more on reusing components from online sources to minimize the time and cost of software development. An important challenge in this context is to evaluate the degree to which a software component is suitable for reuse, i.e. its reusability. Contemporary approaches assess reusability using static analysis metrics by relying on the help of experts, who usually set metric thresholds or provide ground truth values so that estimation models are built. However, even when expert help is available, it may still be subjective or case-specific. In this work, we refrain from expert-based solutions and employ the actual reuse rate of source code components as ground truth for building a reusability estimation model. We initially build a benchmark dataset, harnessing the power of online repositories to determine the number of reuse occurrences for each component in the dataset. Subsequently, we build a model based on static analysis metrics to assess reusability from five different properties: complexity, cohesion, coupling, inheritance, documentation and size. The evaluation of our methodology indicates that our system can effectively assess reusability as perceived by developers.

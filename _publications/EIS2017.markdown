@@ -5,7 +5,9 @@ type: journal
 authors: Themistoklis Diamantopoulos and Andreas Symeonidis
 title: 'Enhancing Requirements Reusability through Semantic Modeling and Data Mining Techniques'
 journal: Enterprise Information Systems
-state: pp. 1-22
+volume: 12
+number: 8-9
+pages: 960-981
 bibtex: EIS2017.bib
 preprint: https://issel.ee.auth.gr/wp-content/uploads/2019/08/EIS2017.pdf
 ---
