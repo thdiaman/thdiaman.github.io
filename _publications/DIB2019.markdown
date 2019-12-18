@@ -1,0 +1,15 @@
+---
+name: DIB2019
+date: 2019-12-01
+type: journal
+authors: Michail D. Papamichail, Themistoklis Diamantopoulos and Andreas L.Symeonidis
+title: 'Software Reusability Dataset based on Static Analysis Metrics and Reuse Rate Information'
+journal: Data in Brief
+volume: 27
+pages: 104687
+preprint: https://www.sciencedirect.com/science/article/pii/S235234091931042X/pdfft
+bibtex: DIB2019.bib
+---
+
+The widely adopted component-based development paradigm considers the reuse of proper software components as a primary criterion for successful software development. As a result, various research efforts are directed towards evaluating the extent to which a software component is reusable. Prior efforts follow expert-based approaches, however the continuously increasing open-source software initiative allows the introduction of data-driven alternatives. In this context we have generated a dataset that harnesses information residing in online code hosting facilities and introduces the actual reuse rate of software components as a measure of their reusability. To do so, we have analyzed the most popular projects included in the maven registry and have computed a large number of static analysis metrics at both class and package levels using SourceMeter tool that quantify six major source code properties: complexity, cohesion, coupling, inheritance, documentation and size. For these projects we additionally computed their reuse rate using our self-developed code search engine, AGORA. The generated dataset contains analysis information regarding more than 24,000 classes and 2000 packages, and can, thus, be used as the information basis towards the design and development of data-driven reusability evaluation methodologies. The dataset is related to the research article entitled "Measuring the Reusability of Software Components using Static Analysis Metrics and Reuse Rate Information".
+

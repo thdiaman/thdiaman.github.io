@@ -1,11 +1,12 @@
 ---
 name: JSS2019
-date: 2019-09-17
+date: 2019-12-02
 type: journal
 authors: Michail D. Papamichail, Themistoklis Diamantopoulos and Andreas L.Symeonidis
 title: 'Measuring the Reusability of Software Components using Static Analysis Metrics and Reuse Rate Information'
 journal: Systems and Software
-state: pp. 1-16
+volume: 158
+pages: 110423
 preprint: https://issel.ee.auth.gr/wp-content/uploads/2019/09/2019mpapamicJSS.pdf
 bibtex: JSS2019.bib
 ---
