@@ -1,0 +1,25 @@
+---
+name: AIAI2020
+date: 2020-06-06
+type: conference
+authors: Nikolaos L. Tsakiridis, Themistoklis Diamantopoulos, Andreas L. Symeonidis, John B. Theocharis, Athanasios Iossifides, Periklis Chatzimisios, George Pratos, and Dimitris Kouvas
+title: "Versatile Internet of Things for Agriculture: An eXplainable AI Approach"
+conference: 16th International Conference on Artificial Intelligence Applications and Innovations (AIAI)
+pages: 180-191
+location: Halkidiki, Greece
+bibtex: AIAI2020.bib
+preprint: https://issel.ee.auth.gr/wp-content/uploads/2020/05/AIAI2020.pdf
+---
+
+The increase of the adoption of IoT devices and the contemporary problem of food 
+production have given rise to numerous applications of IoT in agriculture. These 
+applications typically comprise a set of sensors that are installed in open fields 
+and measure metrics, such as temperature or humidity, which are used for irrigation 
+control systems. Though useful, most contemporary systems have high installation and 
+maintenance costs, and they do not offer automated control or, if they do, they are 
+usually not interpretable, and thus cannot be trusted for such critical applications. 
+In this work, we design Vital, a system that incorporates a set of low-cost sensors, 
+a robust data store, and most importantly an explainable AI decision support system. 
+Our system outputs a fuzzy rule-base, which is interpretable and allows fully 
+automating the irrigation of the fields. Upon evaluating Vital in two pilot cases, 
+we conclude that it can be effective for monitoring open-field installations.

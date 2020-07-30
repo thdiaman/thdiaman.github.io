@@ -1,0 +1,25 @@
+---
+name: QRS2020
+date: 2020-07-31
+type: conference
+authors: Vasileios Matsoukas, Themistoklis Diamantopoulos, Michail Papamichail, and Andreas Symeonidis
+title: 'Towards Analyzing Contributions from Software Repositories to Optimize Issue Assignment'
+conference: 2020 IEEE International Conference on Software Quality, Reliability and Security (QRS)
+state: in press
+location: Vilnius, Lithuania
+bibtex: QRS2020.bib
+preprint: https://issel.ee.auth.gr/wp-content/uploads/2020/07/QRS2020IssueAssignment.pdf
+---
+
+Most software teams nowadays host their projects online and monitor software development 
+in the form of issues/tasks. This process entails communicating through comments and 
+reporting progress through commits and closing issues. In this context, assigning new 
+issues, tasks or bugs to the most suitable contributor largely improves efficiency. Thus, 
+several automated issue assignment approaches have been proposed, which however have major 
+limitations. Most systems focus only on assigning bugs using textual data, are limited to 
+projects explicitly using bug tracking systems, and may require manually tuning parameters 
+per project. In this work, we build an automated issue assignment system for GitHub, taking 
+into account the commits and issues of the repository under analysis. Our system aggregates 
+feature probabilities using a neural network that adapts to each project, thus not requiring 
+manual parameter tuning. Upon evaluating our methodology, we conclude that it can be 
+efficient for automated issue assignment.

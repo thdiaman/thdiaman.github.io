@@ -1,0 +1,29 @@
+---
+name: FASE2020
+date: 2020-04-25
+type: conference
+authors: Themistoklis Diamantopoulos, Nikolaos Oikonomou, and Andreas Symeonidis
+title: 'Extracting Semantics from Question-Answering Services for Snippet Reuse'
+conference: 23rd International Conference on Fundamental Approaches to Software Engineering (FASE)
+pages: 119-139
+location: Dublin, Ireland
+bibtex: FASE2020.bib
+preprint: https://link.springer.com/content/pdf/10.1007/978-3-030-45234-6_6.pdf
+code: https://github.com/AuthEceSoftEng/StackSearch
+---
+
+Nowadays, software developers typically search online for reusable solutions to common 
+programming problems. However, forming the question appropriately, and locating and 
+integrating the best solution back to the code can be tricky and time consuming. As a 
+result, several mining systems have been proposed to aid developers in the task of 
+locating reusable snippets and integrating them into their source code. Most of these 
+systems, however, do not model the semantics of the snippets in the context of source 
+code provided. In this work, we propose a snippet mining system, named StackSearch, 
+that extracts semantic information from Stack Overlow posts and recommends useful and 
+in-context snippets to the developer. Using a hybrid language model that combines Tf-Idf 
+and fastText, our system effectively understands the meaning of the given query and 
+retrieves semantically similar posts. Moreover, the results are accompanied with useful 
+metadata using a named entity recognition technique. Upon evaluating our system in a set 
+of common programming queries, in a dataset based on post links, and against a similar 
+tool, we argue that our approach can be useful for recommending ready-to-use snippets to 
+the developer.

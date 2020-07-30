@@ -1,0 +1,25 @@
+---
+name: MSR2020
+date: 2020-06-30
+type: conference
+authors: Themistoklis Diamantopoulos, Michail Papamichail, Thomas Karanikiotis, Kyriakos Chatzidimitriou, and Andreas Symeonidis
+title: 'Employing Contribution and Quality Metrics for Quantifying the Software Development Process'
+conference: IEEE/ACM 17th International Conference on Mining Software Repositories (MSR)
+state: in press
+location: Seoul, South Korea
+bibtex: MSR2020.bib
+preprint: https://issel.ee.auth.gr/wp-content/uploads/2020/05/MSR2020.pdf
+dataset: http://doi.org/10.5281/zenodo.2556151
+---
+
+The full integration of online repositories in the contemporary software development 
+process promotes remote work and remote collaboration. Apart from the apparent benefits, 
+online repositories offer a deluge of data that can be utilized to monitor and improve 
+the software development process. Towards this direction, we have designed and implemented 
+a platform that analyzes data from GitHub in order to compute a series of metrics that 
+quantify the contributions of project collaborators, both from a development as well as an 
+operations (communication) perspective. We analyze contributions in an evolutionary manner 
+throughout the projects' lifecycle and track the number of coding violations generated, 
+this way aspiring to identify cases of software development that need closer monitoring 
+and (possibly) further actions to be taken. In this context, we have analyzed the 3000 
+most popular Java GitHub projects and provide the data to the community.
