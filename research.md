@@ -6,6 +6,7 @@ permalink: /research/
 
 These are the research areas that I work on currently.
 My PhD thesis is about applying Data Mining techniques on Software Engineering data. For more information about it, click <a href="https://thdiaman.github.io/phdthesis/">here</a>.
+The findings of the thesis have also laid the groundwork for writing a book, titled "Mining Software Engineering Data for Software Reuse". More information about the book can be found <a href="https://thdiaman.github.io/mining-software-reuse-book/">here</a>.
 For my past research work click <a href="/pastresearch/">here</a>.
 
 <h1>Mining Software Repositories</h1>
