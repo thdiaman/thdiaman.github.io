@@ -26,7 +26,7 @@ More information about this course can be found <a target="_blank" href="https:/
 <h5 style="font-style: italic;">Academic Years teaching: 2017-2018</h5>
 <p>The aim of this course is to introduce students to the knowledge discovery process with a focus on data mining techniques. The course includes the main principles of data mining as well as several important concepts, including classification, clustering, outlier analysis, etc.
 More information about this course can be found <a target="_blank" href="http://mrm.med.auth.gr/courses/electives/data-mining/">here</a>. 
-This course have been co-taught with my colleagues from the Intelligent Systems & Software Engineering Labgroup, while we have also co-authored a practical book for applying machine learning techiques using R, which can be found <a target="_blank" href="https://leanpub.com/practical-machine-learning-r">here</a>.
+This course have been co-taught with my colleagues from the Intelligent Systems & Software Engineering Labgroup, while we have also co-authored a practical book for applying machine learning techniques using R, which can be found <a target="_blank" href="https://leanpub.com/practical-machine-learning-r">here</a>.
 
 <h1>Pattern Recognition</h1>
 <h5 style="font-style: italic;">Electrical and Computer Engineering Department, Aristotle University of Thessaloniki</h5>
