@@ -2,7 +2,7 @@
 name: DIB2019
 date: 2019-12-01
 type: journal
-authors: Michail D. Papamichail, Themistoklis Diamantopoulos and Andreas L.Symeonidis
+authors: Michail D. Papamichail, Themistoklis Diamantopoulos and Andreas L. Symeonidis
 title: 'Software Reusability Dataset based on Static Analysis Metrics and Reuse Rate Information'
 journal: Data in Brief
 volume: 27
