@@ -26,8 +26,7 @@ Technology - Hellas (CERTH). After that, I worked as a research associate in the
 projects S-CASE (Scaffolding Scalable Software Services) and SEAF (Sustainable Energy Asset
 Evaluation and Optimisation Framework). In the meantime, I have completed my PhD research in the
 field of applying Data Mining techniques on Software Engineering data at the Aristotle University
-of Thessaloniki. Currently I work on my research in the university, while also testing my ideas at
-the market through my position as a CEO in the newly-founded company <a target="_blank" href="https://www.cyclopt.com/">Cyclopt</a>.
+of Thessaloniki. Currently I work on my research, while also teaching courses at the university.
 
 I am also an active developer in Java, Python, R, Javascript, etc. and have
 experience in several frameworks and libraries. You can find most information
