@@ -1,0 +1,29 @@
+---
+name: FASE2022
+date: 2022-04-04
+type: conference
+authors: Evangelos Papathomas, Themistoklis Diamantopoulos, and Andreas Symeonidis
+title: 'Semantic Code Search in Software Repositories using Neural Machine Translation'
+conference: 25th International Conference on Fundamental Approaches to Software Engineering (FASE)
+pages: 225-244
+location: Munich, Germany
+bibtex: FASE2022.bib
+preprint: https://link.springer.com/content/pdf/10.1007/978-3-030-99429-7_13.pdf
+code: https://github.com/AuthEceSoftEng/CodeTransformer
+---
+
+Nowadays, software development is accelerated through the reuse of code snippets found
+online in question-answering platforms and software repositories. In order to be efficient,
+this process requires forming an appropriate query and identifying the most suitable code
+snippet, which can sometimes be challenging and particularly time-consuming. Over the last
+years, several code recommendation systems have been developed to offer a solution to this
+problem. Nevertheless, most of them recommend API calls or sequences instead of reusable
+code snippets. Furthermore, they do not employ architectures advanced enough to exploit the
+semantics of natural language and code in order to form the optimal query from the question
+posed. To overcome these issues, we propose CodeTransformer, a code recommendation system
+that provides useful, reusable code snippets extracted from open-source GitHub repositories.
+By employing a neural network architecture that comprises advanced attention mechanisms,
+our system effectively understands and models natural language queries and code snippets in
+a joint vector space. Upon evaluating CodeTransformer quantitatively against a similar
+system and qualitatively using a dataset from Stack Overflow, we conclude that our approach
+can recommend useful and reusable snippets to developers.
