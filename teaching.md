@@ -32,8 +32,8 @@ This course have been co-taught with my colleagues from the Intelligent Systems 
 <h5 style="font-style: italic;">MSc in Advanced Computer and Communication Systems, Collaborating Schools: Electrical and Computer Engineering, Medicine, Music Studies, Journalism and Mass Communications, Aristotle University of Thessaloniki</h5>
 <h5 style="font-style: italic;">Academic Years teaching: 2021-2022</h5>
 <p>The aim of this course is to introduce students to the concepts of neural networks. It includes the theory of neural networks and deep learning, and discusses the concepts of Convolutional Neural Networks, Transfer Learning, Recurrent Neural Networks, Autoencoders, and Generative Adversarial Networks.
-I have co-taught this course, creating lecture slides, and teaching the lectures and the practical applications.
-More information about this course can be found <a target="_blank" href="https://qa.auth.gr/el/class/1/600177733">here</a>.
+I have co-taught this course, creating lecture slides, working on the course assignment, and teaching the lectures and the practical applications.
+More information about this course can be found <a target="_blank" href="https://qa.auth.gr/en/class/1/600177733">here</a>.
 
 <h1>Pattern Recognition</h1>
 <h5 style="font-style: italic;">Electrical and Computer Engineering Department, Aristotle University of Thessaloniki</h5>
