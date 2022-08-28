@@ -5,7 +5,7 @@ type: conference
 authors: Themistoklis Diamantopoulos, Michail Papamichail, Thomas Karanikiotis, Kyriakos Chatzidimitriou, and Andreas Symeonidis
 title: 'Employing Contribution and Quality Metrics for Quantifying the Software Development Process'
 conference: IEEE/ACM 17th International Conference on Mining Software Repositories (MSR)
-state: in press
+pages: 558-562
 location: Seoul, South Korea
 bibtex: MSR2020.bib
 preprint: https://issel.ee.auth.gr/wp-content/uploads/2020/05/MSR2020.pdf

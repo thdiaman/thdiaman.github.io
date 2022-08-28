@@ -5,7 +5,7 @@ type: conference
 authors: Vasileios Matsoukas, Themistoklis Diamantopoulos, Michail Papamichail, and Andreas Symeonidis
 title: 'Towards Analyzing Contributions from Software Repositories to Optimize Issue Assignment'
 conference: 2020 IEEE International Conference on Software Quality, Reliability and Security (QRS)
-state: in press
+pages: 243-253
 location: Vilnius, Lithuania
 bibtex: QRS2020.bib
 preprint: https://issel.ee.auth.gr/wp-content/uploads/2020/07/QRS2020IssueAssignment.pdf
