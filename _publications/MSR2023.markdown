@@ -1,0 +1,24 @@
+---
+name: MSR2023
+date: 2023-05-15
+type: conference
+authors: Themistoklis Diamantopoulos, Dimitrios-Nikitas Nastos, and Andreas Symeonidis
+title: 'Semantically-enriched Jira Issue Tracking Data'
+conference: IEEE/ACM 20th International Conference on Mining Software Repositories (MSR)
+pages: 218-222
+location: Melbourne, Australia
+bibtex: MSR2023.bib
+preprint: https://issel.ee.auth.gr/wp-content/uploads/2023/04/MSR2023JiraIssuesDataset.pdf
+dataset: https://doi.org/10.5281/zenodo.5665895
+---
+
+Current state of practice dictates that software developers host their projects online and 
+employ project management systems to monitor the development of product features, keep track 
+of bugs, and prioritize task assignments. The data stored in these systems, if their semantics 
+are extracted effectively, can be used to answer several interesting questions, such as finding 
+who is the most suitable developer for a task, what the priority of a task should be, or even 
+what is the actual workload of the software team. To support researchers and practitioners that 
+work towards these directions, we have built a system that crawls data from the Jira management 
+system, performs topic modeling on the data to extract useful semantics and stores them in a 
+practical database schema. We have used our system to retrieve and analyze 656 projects of the 
+Apache Software Foundation, comprising data from more than a million Jira issues.
