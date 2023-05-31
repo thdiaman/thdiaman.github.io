@@ -4,7 +4,7 @@
     {% if pub.state %}
       {{ pub.state }},
     {% else %}
-      vol {{ pub.volume }}, {% if pub.number %}no {{ pub.number}}, {% endif %}pp. {{ pub.pages }},
+      {% if pub.volume %}vol {{ pub.volume }}, {% endif %}{% if pub.number %}no {{ pub.number}}, {% endif %}pp. {{ pub.pages }},
     {% endif %}
     {{ pub.date | date: "%B %Y" }}.
   {% elsif pub.type == "bookchapter" %}
