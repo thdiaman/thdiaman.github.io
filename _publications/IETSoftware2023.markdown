@@ -8,6 +8,7 @@ journal: IET Software
 pages: 1-10
 bibtex: IETSoftware2023.bib
 preprint: https://issel.ee.auth.gr/wp-content/uploads/2023/05/IETSoftware2023.pdf
+code: https://github.com/AuthEceSoftEng/issue-assignment-with-topic-modeling
 ---
 
 As more and more software teams use online issue tracking systems to collaborate on software projects,
