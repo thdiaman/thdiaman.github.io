@@ -5,7 +5,9 @@ type: journal
 authors: Themistoklis Diamantopoulos, Nikolaos Saoulidis and Andreas Symeonidis
 title: 'Automated Issue Assignment using Topic Modeling on Jira Issue Tracking Data'
 journal: IET Software
-pages: 1-10
+volume: 17
+number: 3
+pages: 333-344
 bibtex: IETSoftware2023.bib
 preprint: https://issel.ee.auth.gr/wp-content/uploads/2023/05/IETSoftware2023.pdf
 code: https://github.com/AuthEceSoftEng/issue-assignment-with-topic-modeling
