@@ -1,0 +1,26 @@
+---
+name: DATA2023
+date: 2023-08-31
+type: journal
+authors: Thomas Karanikiotis, Themistoklis Diamantopoulos and Andreas Symeonidis
+title: 'Employing Source Code Quality Analytics for Enriching Code Snippets Data'
+journal: Data
+volume: 8
+number: 9
+pages: 140
+bibtex: DATA2023.bib
+preprint: https://www.mdpi.com/2306-5729/8/9/140/pdf
+code: https://github.com/AuthEceSoftEng/code-snippets-dataset
+dataset: https://zenodo.org/record/7893288
+---
+
+The availability of code snippets in online repositories like GitHub has led to an uptick in code reuse,
+this way further supporting an open-source component-based development paradigm. The likelihood of code
+reuse rises when the code components or snippets are of high quality, especially in terms of readability,
+making their integration and upkeep simpler. Toward this direction, we have developed a dataset of code
+snippets that takes into account both the functional and the quality characteristics of the snippets. The
+dataset is based on the CodeSearchNet corpus and comprises additional information, including static
+analysis metrics, code violations, readability assessments, and source code similarity metrics. Thus, using
+this dataset, both software researchers and practitioners can conveniently find and employ code snippets
+that satisfy diverse functional needs while also demonstrating excellent readability and maintainability.
+
