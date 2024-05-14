@@ -1,0 +1,24 @@
+---
+name: MSR2024
+date: 2024-04-15
+type: conference
+authors: Konstantinos Moratis, Themistoklis Diamantopoulos, Dimitrios-Nikitas Nastos, and Andreas Symeonidis
+title: 'Write me this Code: An Analysis of ChatGPT Quality for Producing Source Code'
+conference: IEEE/ACM 21st International Conference on Mining Software Repositories (MSR)
+pages: 147-151
+location: Lisbon, Portugal
+bibtex: MSR2024.bib
+preprint: https://issel.ee.auth.gr/wp-content/uploads/2024/02/MSR2024.pdf
+code: https://github.com/AuthEceSoftEng/msr-devgpt
+---
+
+Developers nowadays are increasingly turning to large language models (LLMs) like ChatGPT to
+assist them with coding tasks, inspired by the promise of efficiency and the advanced capabilities
+they offer. However, this raises important questions about the ease of integration and the safety
+of incorporating these tools into the development process. To investigate these questions, this
+paper examines a set of ChatGPT conversations. Upon annotating the conversations according to the
+intent of the developer, we focus on two critical aspects: firstly, the ease with which developers
+can produce suitable source code using ChatGPT, and, secondly, the quality aspects of the generated
+source code, determined by the compliance to standards and best practices. We research both the
+quality of the generated code itself and its impact on the project of the developer. Our results
+indicate that ChatGPT can be a useful tool for software development when used with discretion.
