@@ -7,6 +7,20 @@ permalink: /teaching/
 In this page, one may find information about the courses that I have taught, co-taught (or taught as part of my 
 teaching assistant responsibilities) over the years.
 
+<h1>Database Systems</h1>
+<h5 style="font-style: italic;">Electrical and Computer Engineering Department, Aristotle University of Thessaloniki</h5>
+<h5 style="font-style: italic;">Academic Years teaching: 2018-2019, 2019-2020, 2020-2021, 2021-2022, 2023-2024</h5>
+<p>The aim of this course is to introduce students to the concepts of databases. It includes relational database design, relational algebra, SQL, and discusses also the concepts of NoSQL databases and big data.
+I have worked as a visiting lecturer in this course, creating the lecture slides, the lab material and the assignments, and teaching the lectures and the lab exercises.
+More information about this course can be found <a target="_blank" href="https://qa.auth.gr/en/class/1/600058019">here</a>.
+
+<h1>Structured Programming</h1>
+<h5 style="font-style: italic;">Electrical and Computer Engineering Department, Aristotle University of Thessaloniki</h5>
+<h5 style="font-style: italic;">Academic Years teaching: 2023-2024</h5>
+<p>The aim of this course is to introduce students to structured programming. It includes the concepts of designing, analyzing, and programming, and teaches students how to use an integrated development environment and how to write code in C.
+I have worked as a visiting lecturer in this course, creating the lecture slides and the lab material, and teaching the lectures and the lab exercises.
+More information about this course can be found <a target="_blank" href="https://qa.auth.gr/en/class/1/600010171">here</a>.
+
 <h1>Object-Oriented Programming</h1>
 <h5 style="font-style: italic;">Electrical and Computer Engineering Department, Aristotle University of Thessaloniki</h5>
 <h5 style="font-style: italic;">Academic Years teaching: 2018-2019, 2019-2020, 2020-2021, 2021-2022</h5>
@@ -14,23 +28,30 @@ teaching assistant responsibilities) over the years.
 I have worked as a visiting lecturer in this course, creating the lecture slides, the lab material and the assignments, and teaching the lectures and the lab exercises.
 More information about this course can be found <a target="_blank" href="https://qa.auth.gr/en/class/1/600135663">here</a>.
 
-<h1>Database Systems</h1>
+<h1>Computer Organization</h1>
 <h5 style="font-style: italic;">Electrical and Computer Engineering Department, Aristotle University of Thessaloniki</h5>
-<h5 style="font-style: italic;">Academic Years teaching: 2018-2019, 2019-2020, 2020-2021, 2021-2022</h5>
-<p>The aim of this course is to introduce students to the concepts of databases. It includes relational database design, relational algebra, SQL, and discusses also the concepts of NoSQL databases and big data.
-I have worked as a visiting lecturer in this course, creating the lecture slides, the lab material and the assignments, and teaching the lectures and the lab exercises.
-More information about this course can be found <a target="_blank" href="https://qa.auth.gr/en/class/1/600058019">here</a>.
+<h5 style="font-style: italic;">Academic Years teaching: 2022-2023</h5>
+<p>The aim of this course is to introduce students to computer organization. It includes computer hardware fundamentals, hardware and software interaction, and discusses also assembly programming.
+I have worked as a visiting lecturer in this course, creating the lecture slides and the exercises, and teaching the lectures and the  exercises.
+More information about this course can be found <a target="_blank" href="https://qa.auth.gr/en/class/1/600111241">here</a>.
 
 <h1>Data Mining</h1>
 <h5 style="font-style: italic;">MSc in Medical Research Methodology, Medical School, Aristotle University of Thessaloniki</h5>
-<h5 style="font-style: italic;">Academic Years teaching: 2017-2018, 2020-2021, 2021-2022</h5>
+<h5 style="font-style: italic;">Academic Years teaching: 2017-2018, 2020-2021, 2021-2022, 2022-2023, 2023-2024</h5>
 <p>The aim of this course is to introduce students to the knowledge discovery process with a focus on data mining techniques. The course includes the main principles of data mining as well as several important concepts, including classification, clustering, outlier analysis, etc.
 More information about this course can be found <a target="_blank" href="http://mrm.med.auth.gr/courses/electives/data-mining/">here</a>. 
 This course have been co-taught with my colleagues from the Intelligent Systems & Software Engineering Labgroup, while we have also co-authored a practical book for applying machine learning techniques using R, which can be found <a target="_blank" href="https://leanpub.com/practical-machine-learning-r">here</a>.
 
+<h1>Big Data Analytics</h1>
+<h5 style="font-style: italic;">MSc in Health Statistics & Data Analytics, Medical School, Aristotle University of Thessaloniki</h5>
+<h5 style="font-style: italic;">Academic Years teaching: 2023-2024</h5>
+<p>The aim of this course is to introduce students to the process of exploring and mining big data. The course includes the main principles of machine learning and big data as well as several important concepts, including classification and clustering.
+More information about this course can be found <a target="_blank" href="https://hsda.med.auth.gr/second-semester-courses/big-data-analytics/">here</a>. 
+This course have been co-taught with my colleagues from the Intelligent Systems & Software Engineering Labgroup.
+
 <h1>Computational Intelligence - Systems Inspired from Biology: Neural Networks</h1>
 <h5 style="font-style: italic;">MSc in Advanced Computer and Communication Systems, Collaborating Schools: Electrical and Computer Engineering, Medicine, Music Studies, Journalism and Mass Communications, Aristotle University of Thessaloniki</h5>
-<h5 style="font-style: italic;">Academic Years teaching: 2021-2022</h5>
+<h5 style="font-style: italic;">Academic Years teaching: 2021-2022, 2022-2023, 2023-2024</h5>
 <p>The aim of this course is to introduce students to the concepts of neural networks. It includes the theory of neural networks and deep learning, and discusses the concepts of Convolutional Neural Networks, Transfer Learning, Recurrent Neural Networks, Autoencoders, and Generative Adversarial Networks.
 I have co-taught this course, creating lecture slides, working on the course assignment, and teaching the lectures and the practical applications.
 More information about this course can be found <a target="_blank" href="https://qa.auth.gr/en/class/1/600177733">here</a>.
