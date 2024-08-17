@@ -24,9 +24,11 @@ project eCOMPASS (eCO-friendly urban Multi-modal route PlAnning Services for mob
 part of my work in the Informatics and Telematics Institute (ITI) of Centre for Research and 
 Technology - Hellas (CERTH). After that, I worked as a research associate in the EU-funded 
 projects S-CASE (Scaffolding Scalable Software Services) and SEAF (Sustainable Energy Asset
-Evaluation and Optimisation Framework). In the meantime, I have completed my PhD research in the
-field of applying Data Mining techniques on Software Engineering data at the Aristotle University
-of Thessaloniki. Currently I work on my research, while also teaching courses at the university.
+Evaluation and Optimisation Framework) as well as in multiple national-funded/other projects.
+In the meantime, I have completed my PhD research in the field of applying Data Mining techniques
+on Software Engineering data at the Aristotle University of Thessaloniki. Currently I work on my
+research and in the EU-funded project ECO-READY (Achieving Ecological Resilient Dynamism for the
+European Food System through Consumer-driven Policies), while also teaching courses at the university.
 
 I am also an active developer in Java, Python, R, Javascript, etc. and have
 experience in several frameworks and libraries. You can find most information
