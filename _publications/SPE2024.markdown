@@ -1,0 +1,27 @@
+---
+name: SPE2024
+date: 2024-10-24
+type: journal
+authors: Michael Karatzas, Themistoklis Diamantopoulos and Andreas Symeonidis
+title: 'Extracting Fix Patterns for Static Analysis Violations Based on Collective Developer Knowledge'
+journal: Software: Practice and Experience
+bibtex: SPE2024.bib
+preprint: https://onlinelibrary.wiley.com/doi/epdf/10.1002/spe.3384
+code: https://github.com/AuthEceSoftEng/violation-fixes
+---
+
+Much of the effort spent on software development is allocated on detecting and fixing bugs or, more generally,
+violations that lead to erroneous or inefficient code. Although static analysis tools aspire to automate bug
+detection, their usage is typically limited to code style rules and typical violations, while they only provide
+generic instructions for bug fixing. As a result, contemporary approaches focus on extracting bug-fix patterns
+from source code revisions (commits). In this work, we build a methodology that extracts fix patterns for
+violations detected by the PMD static analysis tool. In contrast to current approaches, which employ specific
+data sources and focus on particular violations, our system extracts source code edits from multiple GitHub
+repositories and maps them into 36 different types of violations. By employing a detailed syntax tree
+representation and a tree edit distance technique, we build a similarity scheme for source code edits, which
+is used to group them into clusters. We employ two clustering algorithms, K-medoids and DBSCAN, and further
+optimize them using a purity metric to produce clusters that correspond to specific fixes. Our evaluation
+indicates that DBSCAN extracts more cohesive clusters (purity more than 0.9), which effectively target specific
+PMD rules, while K-medoids extracts generic clusters (purity around 0.7) that pinpoint common edits. Finally,
+upon analyzing the diversity of the sources from which fixes are derived (commits and repositories), we
+conclude that they are generic enough to reflect how similar issues are dealt with by the developer community.
