@@ -9,7 +9,7 @@ This page includes useful tools that I have used and recommend.
 <h1>Languages and Frameworks</h1>
 <ul>
   <li><a target="_blank" href="http://winpython.sourceforge.net/">WinPython</a>: Python distribution package for Windows</li>
-  <li><a target="_blank" href="https://www.continuum.io/anaconda-overview">Anaconda</a>: Cross-platform Python distribution package</li>
+  <li><a target="_blank" href="https://www.anaconda.com/download">Anaconda</a>: Cross-platform Python distribution package</li>
   <li><a target="_blank" href="https://www.npmjs.com">npm</a>: Package manager for Node.js</li>
   <li><a target="_blank" href="http://www.cs.waikato.ac.nz/ml/weka/">Weka</a>: Java library for Data Mining</li>
   <li><a target="_blank" href="http://www.nltk.org/">NLTK</a>: Python toolkit for Natural Language Processing</li>

@@ -17,7 +17,7 @@ resources, such as the ones offered in this page. You can also check the
       <h5>Software Engineering</h5>
       <h6>by Ian Sommerville</h6>
       <p>Reference book on Software Engineering</p>
-      Book link: <a target="_blank" href="http://iansommerville.com/software-engineering-book/">http://iansommerville.com/software-engineering-book/</a>
+      Book link: <a target="_blank" href="https://software-engineering-book.com/">https://software-engineering-book.com//</a>
       <br/><br/>
     </div>
     <div class="col-md-6 col-lg-6 col-sm-12 col-xs-12">

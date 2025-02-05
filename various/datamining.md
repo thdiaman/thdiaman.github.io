@@ -27,7 +27,7 @@ about the book that I have co-authored on applying machine learning algorithms i
       <h5>Data Mining: Practical Machine Learning Tools and Techniques</h5>
       <h6>by Ian H. Witten, Eibe Frank, Mark A. Hall, Christopher J. Pal</h6>
       <p>Practical approach to Data Mining</p>
-      Book link: <a target="_blank" href="http://www.cs.waikato.ac.nz/ml/weka/book.html">http://www.cs.waikato.ac.nz/ml/weka/book.html</a>
+      Book link: <a target="_blank" href="https://ml.cms.waikato.ac.nz/weka/book.html">https://ml.cms.waikato.ac.nz/weka/book.html</a>
       <br/><br/>
     </div>
     <div class="col-md-6 col-lg-6 col-sm-12 col-xs-12">
