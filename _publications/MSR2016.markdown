@@ -8,9 +8,9 @@ conference: IEEE/ACM 13th Working Conference on Mining Software Repositories (MS
 pages: 488-491
 location: Austin, Texas, USA
 bibtex: MSR2016.bib
-preprint: http://issel.ee.auth.gr/wp-content/uploads/2016/06/QualBoa-Reusability-aware-Recommendations-of-Source-Code-Components.pdf
+preprint: https://issel.ee.auth.gr/wp-content/uploads/2016/06/QualBoa-Reusability-aware-Recommendations-of-Source-Code-Components.pdf
 code: https://github.com/AuthEceSoftEng/QualBoa
-dataset: http://issel.ee.auth.gr/wp-content/uploads/2016/02/datasetMSR.zip
+dataset: https://github.com/AuthEceSoftEng/QualBoa/raw/master/datasetMSR.zip
 ---
 
 Contemporary software development processes involve finding reusable software 

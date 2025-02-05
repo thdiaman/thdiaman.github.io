@@ -8,7 +8,7 @@ conference: IEEE/ACM 15th International Conference on Mining Software Repositori
 pages: 42-45
 location: Gothenburg, Sweden
 bibtex: MSR2018.bib
-preprint: http://issel.ee.auth.gr/wp-content/uploads/2018/03/msr2018.pdf
+preprint: https://issel.ee.auth.gr/wp-content/uploads/2018/03/msr2018.pdf
 code: https://github.com/AuthEceSoftEng/msr-2018-npm-miner
 dataset: https://doi.org/10.5281/zenodo.1165550
 ---

@@ -8,7 +8,7 @@ conference: IEEE/ACM 12th Working Conference on Mining Software Repositories (MS
 pages: 454-457
 location: Florence, Italy
 bibtex: MSR2015.bib
-preprint: http://issel.ee.auth.gr/wp-content/uploads/2015/10/MSR2015.pdf
+preprint: https://issel.ee.auth.gr/wp-content/uploads/2015/10/MSR2015.pdf
 ---
 
 Nowadays, software development has been greatly influenced by question-answering 

@@ -8,7 +8,7 @@ journal: Automated Software Engineering
 volume: 24
 number: 4
 pages: 791-838
-preprint: http://issel.ee.auth.gr/wp-content/uploads/2016/09/ReqsToCodeMDE.pdf
+preprint: https://issel.ee.auth.gr/wp-content/uploads/2016/09/ReqsToCodeMDE.pdf
 bibtex: ASE2016.bib
 ---
 
