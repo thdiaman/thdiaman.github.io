@@ -5,7 +5,9 @@ type: journal
 authors: Michael Karatzas, Themistoklis Diamantopoulos and Andreas Symeonidis
 title: 'Extracting Fix Patterns for Static Analysis Violations Based on Collective Developer Knowledge'
 journal: 'Software: Practice and Experience'
-pages: 1-17
+volume: 55,
+number: 3,
+pages: 524-540,
 bibtex: SPE2024.bib
 preprint: https://onlinelibrary.wiley.com/doi/epdf/10.1002/spe.3384
 code: https://github.com/AuthEceSoftEng/violation-fixes
