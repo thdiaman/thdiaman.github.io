@@ -1,0 +1,29 @@
+---
+name: DATA2025
+date: 2025-02-20
+type: journal
+authors: Themistoklis Diamantopoulos and Andreas L. Symeonidis
+title: 'A Directory of Datasets for Mining Software Repositories'
+journal: Data
+volume: 10
+number: 3
+pages: 28
+bibtex: DATA2025.bib
+preprint: https://www.mdpi.com/2306-5729/10/3/28/pdf
+code: https://github.com/AuthEceSoftEng/directory-msr-datasets
+dataset: https://github.com/AuthEceSoftEng/directory-msr-datasets/raw/refs/heads/main/_data/directory.zip
+---
+
+The amount of software engineering data is constantly growing, as more and more developers employ online
+services to store their code, keep track of bugs, or even discuss issues. The data residing in these
+services can be mined to address different research challenges; therefore, certain initiatives have been
+established to encourage sharing research datasets collecting them. In this work, we investigate the effect
+of such an initiative; we create a directory that includes the papers and the corresponding datasets of the
+data track of the Mining Software Engineering (MSR) conference. Specifically, our directory includes
+metadata and citation information for the papers of all data tracks, throughout the last twelve years. We
+also annotate the datasets according to the data source and further assess their compliance to the FAIR
+principles. Using our directory, researchers can find useful datasets for their research, or even design
+methodologies for assessing their quality, especially in the software engineering domain. Moreover, the
+directory can be used for analyzing the citations of data papers, especially with regard to different data
+categories, as well as for examining their FAIRness score throughout the years, along with its effect on
+the usage/citation of the datasets.
