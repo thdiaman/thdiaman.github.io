@@ -1,0 +1,28 @@
+---
+name: EASE2025
+date: 2025-06-18
+type: conference
+authors: Athanasios Michailoudis, Themistoklis Diamantopoulos, Antonios Favvas, and Andreas Symeonidis
+title: 'Towards an Interpretable Analysis for Estimating the Resolution Time of Software Issues'
+conference: 29th International Conference on Evaluation and Assessment in Software Engineering (EASE)
+pages: 1-6
+location: Istanbul, Turkey
+bibtex: EASE2025.bib
+preprint: https://arxiv.org/pdf/2505.02437
+code: https://github.com/AuthEceSoftEng/online-issues
+---
+
+Efficient issue assignment in software development relates to faster resolution time, resources
+optimization, and reduced development effort. To this end, numerous systems have been developed to
+automate issue assignment, including AI and machine learning approaches. Most of them, however,
+often solely focus on a posteriori analyses of textual features (e.g. issue titles, descriptions),
+disregarding the temporal characteristics of software development. Thus, they fail to adapt as
+projects and teams evolve, such cases of team evolution, or project phase shifts (e.g. from
+development to maintenance). To incorporate such cases in the issue assignment process, we propose
+an Online Machine Learning methodology that adapts to the evolving characteristics of software
+projects. Our system processes issues as a data stream, dynamically learning from new data and
+adjusting in real time to changes in team composition and project requirements. We incorporate
+metadata such as issue descriptions, components and labels and leverage adaptive drift detection
+mechanisms to identify when model re-evaluation is necessary. Upon assessing our methodology on a
+set of software projects, we conclude that it can be effective on issue assignment, while meeting
+the evolving needs of software teams.
