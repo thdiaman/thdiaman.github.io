@@ -1,0 +1,28 @@
+---
+name: MAKE2025
+date: 2025-08-26
+type: journal
+authors: Eleftherios Kalaitzidis, Themistoklis Diamantopoulos, Athanasios Michailoudis and Andreas L. Symeonidis
+title: 'AML4S: An AutoML Pipeline for Data Streams'
+journal: Machine Learning and Knowledge Extraction
+volume: 7
+number: 3
+pages: 87
+bibtex: MAKE2025.bib
+preprint: https://www.mdpi.com/2504-4990/7/3/87/pdf
+code: https://github.com/AuthEceSoftEng/automl-data-streams
+---
+
+The data landscape has changed, as more and more information is produced in the form of continuous data
+streams instead of stationary datasets. In this context, several online machine learning techniques have
+been proposed with the aim of automatically adapting to changes in data distributions, known as drifts.
+Though effective in certain scenarios, contemporary techniques do not generalize well to different types
+of data, while they also require manual parameter tuning, thus significantly hindering their applicability.
+Moreover, current methods do not thoroughly address drifts, as they mostly focus on concept drifts
+(distribution shifts on the target variable) and not on data drifts (changes in feature distributions).
+To confront these challenges, in this paper, we propose an AutoML Pipeline for Streams (AML4S), which
+automates the choice of preprocessing techniques, the choice of machine learning models, and the tuning of
+hyperparameters. Our pipeline further includes a drift detection mechanism that identifies different types
+of drifts, therefore continuously adapting the underlying models. We assess our pipeline on several real
+and synthetic data streams, including a data stream that we crafted to focus on data drifts. Our results
+indicate that AML4S produces robust pipelines and outperforms existing online learning or AutoML algorithms.
