@@ -1,0 +1,29 @@
+---
+name: RSCY2025
+date: 2025-09-19
+type: conference
+authors: Themistoklis Diamantopoulos, Dimitrios-Nikitas Nastos, Athanasios Michailoudis, and Andreas Symeonidis
+title: 'Towards a Big Data Infrastructure and Monitoring Dashboard for the Food Security Domain'
+conference: Eleventh International Conference on Remote Sensing and Geoinformation of the Environment (RSCy2025)
+pages: 138160N
+location: Paphos, Cyprus
+bibtex: RSCY2025.bib
+preprint: https://www.spiedigitallibrary.org/proceedings/Download?urlId=10.1117/12.3073261
+code: https://github.com/AuthEceSoftEng/ecoready-observatory
+---
+
+Lately, food security has been identified as a topmost priority for the European Union, which
+entails different challenges. Transitioning to a sustainable food system involves reliable access
+to nutritious food for consumers, ensuring the economic protection of producers, and monitoring
+the food supply chain with respect to environmental sustainability and biodiversity. In this
+context, several global and European initiatives have emerged to gather useful data in this
+domain, however extracting actionable knowledge from these data is not trivial. In this work, we
+design a Digital Observatory with the aim of confronting these challenges by combining and
+analyzing data from different sources. Our observatory integrates both EU/governmental level
+datasets and regional data from a network of Living Labs. Its backend comprises a fault-tolerant
+scalable infrastructure, which processes data as streams of events using state-of-practice
+technologies, and allows online calculation of useful statistics and application of mining
+algorithms. The user interface of the observatory is an intuitive dashboard that allows
+visualizing the data, detecting patterns and identifying correlations among different variables.
+The dashboard further includes an interactive map with layers that depict useful statistics for
+different regions of Europe.
