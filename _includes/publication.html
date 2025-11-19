@@ -28,7 +28,13 @@
   <style> input#cb{{ pub.name }}:checked ~ span#abs{{ pub.name }} { display:block; } </style>
   <label class="labellink" for="cb{{ pub.name }}">Abstract</label><input class="pubinput" type="checkbox" id="cb{{ pub.name }}">
   {% if pub.bibtex %} | <a target="_blank" href="{{ pub.bibtex }}">Bibtex</a> {% endif %}
-  {% if pub.preprint %} | <a target="_blank" href="{{ pub.preprint }}">Preprint</a> {% endif %}
+  {% if pub.preprint %}
+    {% if pub.preprint startswith "https://publisync.issel.ee.auth.gr/backend" %}
+       | <a href="#" onclick="fetch('{{ pub.preprintissel }}').then(r=>r.json()).then(data=>{const a=document.createElement('a');a.href=`data:application/pdf;base64,${data.base64File}`;a.download=data.file||'download.pdf';document.body.appendChild(a);a.click();document.body.removeChild(a);});return false;">Preprint</a>
+    {% else %}
+      | <a target="_blank" href="{{ pub.preprint }}">Preprint</a>
+    {% endif %}
+  {% endif %}
   {% if pub.presentation %} | <a target="_blank" href="{{ pub.presentation }}">Presentation</a> {% endif %}
   {% if pub.code %} | <a target="_blank" href="{{ pub.code }}">Code</a> {% endif %}
   {% if pub.dataset %} | <a target="_blank" href="{{ pub.dataset }}">Dataset</a> {% endif %}
