@@ -27,8 +27,10 @@ projects S-CASE (Scaffolding Scalable Software Services) and SEAF (Sustainable E
 Evaluation and Optimisation Framework) as well as in multiple national-funded/other projects.
 In the meantime, I have completed my PhD research in the field of applying Data Mining techniques
 on Software Engineering data at the Aristotle University of Thessaloniki. Currently I work on my
-research and in the EU-funded project ECO-READY (Achieving Ecological Resilient Dynamism for the
-European Food System through Consumer-driven Policies), while also teaching courses at the university.
+research in multiple EU-funded projects, including ECO-READY (Achieving Ecological Resilient Dynamism
+for the European Food System through Consumer-driven Policies) and Nostradamus (Data Cube and
+Copernicus data for Food Security and European Independence), while also teaching courses at the
+university.
 
 I am also an active developer in Java, Python, R, Javascript, etc. and have
 experience in several frameworks and libraries. You can find most information
