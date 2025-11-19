@@ -30,7 +30,7 @@
   {% if pub.bibtex %} | <a target="_blank" href="{{ pub.bibtex }}">Bibtex</a> {% endif %}
   {% if pub.preprint %}
     {% if pub.preprint contains "https://publisync.issel.ee.auth.gr/backend" %}
-       | <a href="#" onclick="fetch('{{ pub.preprintissel }}').then(r=>r.json()).then(data=>{const a=document.createElement('a');a.href=`data:application/pdf;base64,${data.base64File}`;a.download=data.file||'download.pdf';document.body.appendChild(a);a.click();document.body.removeChild(a);});return false;">Preprint</a>
+       | <a href="#" onclick="fetch('{{ pub.preprint }}').then(r=>r.json()).then(data=>{const a=document.createElement('a');a.href=`data:application/pdf;base64,${data.base64File}`;a.download=data.file||'download.pdf';document.body.appendChild(a);a.click();document.body.removeChild(a);});return false;">Preprint</a>
     {% else %}
       | <a target="_blank" href="{{ pub.preprint }}">Preprint</a>
     {% endif %}
