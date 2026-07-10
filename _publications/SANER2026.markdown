@@ -5,7 +5,7 @@ type: conference
 authors: Themistoklis Diamantopoulos, Dimosthenis Natsos, and Andreas Symeonidis
 title: 'Towards Online Malware Detection using Process Resource Utilization Metrics'
 conference: 33rd IEEE International Conference on Software Analysis, Evolution and Reengineering (SANER)
-pages: 1-6
+pages: 666-671
 location: Limassol, Cyprus
 bibtex: SANER2026.bib
 preprint: https://arxiv.org/pdf/2601.10164v1
